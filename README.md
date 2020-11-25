@@ -31,3 +31,13 @@ Trouxe um materialzinho extra pra te ajudar a evoluir na carreira:
 - [spotify](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3)
 - [quero ser dev](https://queroserdev.com)
 - email: contato@simaraconceicao.com
+
+---
+
+## Entrega da semana
+* Dentro da pasta cvs_base, crie uma pasta chamada students;
+* Nessa pasta adicione um arquivo .json com nome no formato nome_sobrenome.json (ex.: debora_borges,json);
+    * O json deve ter a mesma estrutura do json de exemplo que tem na pasta students_json;
+    * Vocês podem só copiar ele, renomear;
+* Preencha com suas informações;
+* Faça o PR.
