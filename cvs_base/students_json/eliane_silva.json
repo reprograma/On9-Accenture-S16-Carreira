@@ -1,0 +1,78 @@
+{
+  "nome_completo": "Eliane Silva.",
+  "o_que_eu_quero": "Conseguir primeiro emprego como desenvolvedora back-end, e seguir nesta área.",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/eliane-silva-709a02a0/",
+  "link_github": "https://github.com/ElianeASilva",
+  "email": "eliane-asilva1@hotmail.com",
+  "um_pouco_sobre_mim": [
+    "Paulistana, tenho 29 anos e sou formada em Gestão de T.I, tal feito consegui através de uma bolsa ProUni 100%. Algo de que me orgulho muito.",
+    "Durante 7 anos atuei com atendimento ao cliente, mas sentia que não era minha vocação. Me encontrei na tecnologia",
+    "Gosto muito de ver séries, descobrir curiosidades do mundo. Amo leitura, gasto um tempo também nas redes sociais e",
+    "todos me conhecem por ser amante assídua de gatos. Não vivo sem música"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Expert em Interação II",
+      "empresa": "Teleperformance",
+      "periodo": "Mar/2017 a Jan/2020",
+      "atividades_desenvolvidas": "Relacionamento com clientes de determinada empresa de benefícios que utilizavam ou não o serviço de antecipação de recebíveis.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Consultora de Vendas",
+      "empresa": "Uranet",
+      "periodo": "Jan/2015 a Out/2016",
+      "atividades_desenvolvidas": "Prospecção de clientes, aptos a realizar refinanciamento ou novos contratos de empréstimos consignados de diversos órgãos.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp Back-end",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Como utilizar NodeJS, MongoDB, criação de API's."
+    },
+    {
+      "curso": "Gestão da Tecnologia da Informação",
+      "instituicao": "Universidade Paulista - UNIP",
+      "periodo": "Fev/2015 a Jan/2017",
+      "resumo_conhecimentos_aprendidos": "Ferramentas e métodos utilizados na gestão de equipe de T.I."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "",
+      "instituicao": "",
+      "resumo_conhecimentos_interesses": ""
+    },
+    {
+      "interesse_evento_curso": "",
+      "instituicao": "",
+      "resumo_conhecimentos_interesses": ""
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "Criação de API",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "Postman",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 4
+    }
+  ]
+}
