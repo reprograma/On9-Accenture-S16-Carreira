@@ -1,146 +1,95 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Glória Maria Barbosa Teodoro",
+  "o_que_eu_quero": "Tenho o desejo de me aprofundar na área de engenharia de software e ser uma profissional capaz contribuir positivamente na vida das pessoas por meio da tecnologia.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/gl%C3%B3ria-teodoro-8910331b7/",
+  "link_github": "https://github.com/gloriateodoro",
+  "email": "gloriateodoro1@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Olá! Meu nome é Glória, tenho 24 anos e tenho algumas paixões. A que está há mais tempo na minha vida é a música. Por meio dela eu me reconecto comigo mesma, seja ouvindo ou criando por meio de softwares musicais. Foi graças a ela, também, que eu conheci o mundo da programação. Sim!!! Fui contribuir como Sound Design em uma maratona de criação de jogos e, quando vi mulheres programando cada movimento de um personagem, tive o desejo de aprender mais sobre linguagens de programação. E assim começou a minha transição de carreira! :D ",
+    "Fui estudante do curso de Direito, na UFPE, mas decidi trancar o curso para me dedicar completamente à transição de carreira e ao meu trabalho atual (professora particular de matemática e redação). Desde então, sinto que tô no caminho certo e que faz mais sentido pra mim.",
+    "Gosto de separar um tempo pra estudar, todos os dias, pra sentir que estou me tornando uma profissional mais capacitada. Nas horas vagas, gosto de andar de bicicleta, cantar, tocar piano e conversar com a minha família.",
+    "Desde que entrei na Reprograma, percebi o quanto o mundo precisa de nós, profissionais da tecnologia. Espero contribuir para a resolução de problemas reais."
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Assistente Administrativa",
+      "empresa": "Lux Mármore",
+      "periodo": "Fev/2016 a Fev/2018",
+      "atividades_desenvolvidas": "Atendimento ao cliente, cálculo de preços por meio de medidas, agendamento de entregas, contato com fornecedores de mármore/granito, marketing empresarial.",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Professora particular de matemática e redação",
+      "empresa": "Eu mesma - autônoma",
+      "periodo": "Jan/2016 - atualmente",
+      "atividades_desenvolvidas": "Planejamento de aulas sobre redação; aulas para ensino fundamental, médio e pré-vestibular; planejamento e correção de lista de exercícios",
+      "link": null
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Direito",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "periodo": "curso trancado devido à transição de carreira",
+      "resumo_conhecimentos_aprendidos": "Ciência política, Direito penal, Direito Admnistrativo."
     },
     {
       "curso": "Curso de Web Design",
       "instituicao": "Escola Tal",
       "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
       "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "instituicao": "Curso em Vídeo",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript e lógica de programação."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Curso de Git e GitHub",
+      "instituicao": "Curso em Vídeo",
+      "resumo_conhecimentos_interesses": "Entendimento sobre o sistema de controle de versão e sistema de hospedagem."
     }
   ],
   "no_que_me_destaco": [
-    {
-      "habilidade_ferramenta": "HTML",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "CSS",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "SASS",
-      "pontuacao": 6
-    },
+
     {
       "habilidade_ferramenta": "JAVASCRIPT",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "JQUERY",
-      "pontuacao": 6
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "NODE",
-      "pontuacao": 1
+      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "GIT/GITHUB",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "BOOTSTRAP",
       "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "REACT",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
-      "pontuacao": 5
-    },
-    {
-      "habilidade_ferramenta": "RESPONSIVIDADE",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "UX DESIGN",
-      "pontuacao": 6
-    },
-    {
-      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
-      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "WORDPRESS",
       "pontuacao": 9
     },
     {
-      "habilidade_ferramenta": "PHP",
-      "pontuacao": 3
-    },
-    {
-      "habilidade_ferramenta": "MySQL",
-      "pontuacao": 3
-    },
-    {
       "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "FTP",
-      "pontuacao": 5
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
-      "pontuacao": 8
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "PHOTOSHOP",
-      "pontuacao": 9
+      "pontuacao": 7
     },
     {
-      "habilidade_ferramenta": "ILUSTRATOR",
-      "pontuacao": 9
+      "habilidade_ferramenta": "ARQUITETURA MVC",
+      "pontuacao": 7
     },
     {
-      "habilidade_ferramenta": "INDESIGN",
-      "pontuacao": 9
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 6
     }
-  ]
+ ]
 }
