@@ -1,0 +1,121 @@
+{
+  "nome_completo": "Gabriela Melo Gonçalves Pereira",
+  "o_que_eu_quero": "Estou a procura de uma oportunidade na área de TI para conseguir realizar a minha transição de carreira e poder por em prática tudo o que eu aprendi e ainda vou aprender durante a minha trajetória e ser reconhecida profissionalmente.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/gabriela-melo-70ab9a11b/",
+  "link_github": "https://github.com/Gabimm",
+  "email": "gabrielamgp01@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Estudante de Engenhara de Produção, sempre fui apaixonada por tecnlogia e inovação, busco aprender coisas novas sobre diversos assuntos, bastante proativa e com facilidade de trabalhar em grupo",
+    "Já algum tempo estou tentando a transição de carreira e esse ano de fato dei o ponta pé inicial, estou buscando conhecimento através de cursos, palestras na área de TI. Atualmente estou trabalhando numa empresa de TI onde implementei a ferramenta Trello ajudando na organização e tempo de cada projeto. Estou atuando no setor adimistrativo mas fui designada a liderar uma grande equipe em um projeto que foi entregue 4 meses antes do prazo previsto com isso desenvolvi habilidades de liderança, trabalho em equipe e resolução de problemas.",
+    "Nas minhas horas livres costumo ver filmes, séries, ouvir música e ficar o maior tempo possível com a família. Sempre que possível tento viajar, conhecer novas pessoas e culturas.",
+    "Procuro ser uma pessoa objetiva, determinada mas sempre ouvindo e entendendo o próximo com e com bastante resiliência. Procuro sempre compartilhar meus conhecimentos e aprender muito com as pessoas em minha volta."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Atendente de telemarketing",
+      "empresa": "Tim Celular",
+      "periodo": "Mar/2013 a Dez/2013",
+      "atividades_desenvolvidas": "Atendimento receptivo, vendas, retenção de clientes, contratos PJ.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Vendedor Digitais",
+      "empresa": "Livraria Cultura",
+      "periodo": "Jul/2014 a Out/2015",
+      "atividades_desenvolvidas": "Venda de produtos digitais, suporte técnico.",
+      "link": "https://www3.livrariacultura.com.br/"
+    },
+    {
+      "cargo_funcao": "Estágio",
+      "empresa": "LmLink Soluções em Tecnologia",
+      "periodo": "Dez/2016 a Mar/2018",
+      "atividades_desenvolvidas": "Elaboração de laudos técnicos, recebimento e despacho de mercadorias, Emissão de NF's, Teste de qualidade em equipamentos de controle de acesso.",
+      "link": "http://www.lmlink.com.br/"
+    },
+    {
+      "cargo_funcao": "Auxiliar Administrativo",
+      "empresa": "Cloudged Soluções Inteligentes",
+      "periodo": "Mai/2018 até o momento",
+      "atividades_desenvolvidas": "Rotinas administrativa, Vivência com estruturação, tratamento e extruturação de dados, suporte no setor de TI na infraestrutura e desenvolvimento de sistemas.",
+      "link": "http://www.cloudged.com.br/index.php/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Engenharia de Produção",
+      "instituicao": "Uninassau",
+      "periodo": "Fev/2016 a Jul/2022",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+    },
+    {
+      "curso": "Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de Software, App, Desenvolvimento utilizando a linguagem JavaScript, Git e GitBash, NodeJs e MongoDB."
+    },
+    {
+      "curso": "WCM",
+      "instituicao": "Exclência Operacional",
+      "periodo": "Dez/2020 a Jan/2021",
+      "resumo_conhecimentos_aprendidos": "Melhoria de processos e otimização da produção."
+    },
+    {
+      "curso": "Lean Six Sigma Yellow Belt",
+      "instituicao": "Exclência Operacional",
+      "periodo": "Dez/2020 a Jan/2021",
+      "resumo_conhecimentos_aprendidos": "Execução de projetos no escopo, resolução de problemas durantes processos."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Introdução a Gestão de Projetos",
+      "instituicao": "Fundação bradesco",
+      "resumo_conhecimentos_interesses": "Noções básica de como iniciar e gerir um projeto"
+    },
+    {
+      "interesse_evento_curso": "Front-End",
+      "instituicao": "Programaria",
+      "resumo_conhecimentos_interesses": "Como criar as interfaces de um site"
+    },
+    {
+      "interesse_evento_curso": "Fundamentos a Lógica de Programação",
+      "instituicao": "Fundação bradesco",
+      "resumo_conhecimentos_interesses": "Conceitos básicos de lógica e introdução a lógica de programação"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "Trello",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Excel",
+      "pontuacao": 8
+    }
+  ]
+}
