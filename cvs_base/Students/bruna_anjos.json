@@ -1,0 +1,181 @@
+{
+  "nome_completo": "Bruna Roberta Andrade Dos Anjos",
+  "o_que_eu_quero": "Colocar em prática as habilidades e compartilhar conhecimentos. Aprender ainda mais sobre desenvolvimento de software, ganhar experiência e me destacar numa área de prevalência masculina. ",
+  "cidade_estado:": "Recife-PE",
+  "link_linkedin": "https://www.linkedin.com/in/bruna-andrade-9958381b8/",
+  "link_github": "https://github.com/brunardosanjos",
+  "email": "bruninhaandrade360@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou bastante comunicativa, tenho facilidade para trabalhar em equipe e sempre pronta para adquirir novos conhecimentos.",
+    "Gastróloga, formada pela Faculdade Senac, estou em processo de transição de carreira, sempre tive curiosidade por essa área, mas não sabia muito bem por onde começar, ou, o que estudar. Quando conheci a Reprograma, através do bootcamp, me descobri nesse mundo incrível que é a tecnologia e com ela posso agregar todo o meu conhecimento adquirido em outras áreas, através dela iremos mudar o mundo",
+    "Gosto bastante de pedalar, ir ao cinema, amo café e cozinhar para os amigos e família. Sempre que posso compareço em ações em prol a pessoas da terceira idade, que sempre ocorre no bairro que resido."
+    
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Bartender/Barista",
+      "empresa": "Sheraton Hotels & Resort",
+      "periodo": "Jul/2014 a Nov/2016",
+      "atividades_desenvolvidas": "Bartender, chef de Bar, barista.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Bartender",
+      "empresa": "Outback Steakhouse",
+      "periodo": "Set/2013 a Mai/2014",
+      "atividades_desenvolvidas": "Bartender, responsável por fechamento dos turnos da noite.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Telemarketing",
+      "empresa": "CERS Cursos online",
+      "periodo": "Fev/2012 a Set/2013",
+      "atividades_desenvolvidas": "Atendimento em relação aos contéudos dos cursos.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Agente de cobrança",
+      "empresa": "Contax",
+      "periodo": "Jun/2007 a Dez/2009",
+      "atividades_desenvolvidas": "Agente de cobrança para o banco HSBC, elaboração de planilhas com dados de metas a serem batidas, utilização do sistema CACS.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Programador Web",
+      "instituicao": "Senac - PE",
+      "periodo": "Nov/2020 a Mar/2021",
+      "resumo_conhecimentos_aprendidos": "Toda iniciação de desenvolvimento web"
+    },
+    {
+      "curso": "Desenvolvedora BeckEnd",
+      "instituicao": "Bootcamp Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "JavaScript; NodeJs; GitHub; Git; MongoDB;"
+    },
+    {
+      "curso": "Tecnológo em Gatronomia",
+      "instituicao": "Faculdade Senac - PE",
+      "periodo": "Ago/2013 a Dez/2016",
+      "resumo_conhecimentos_aprendidos": "Técnicas de cozinnha; Organização e gerenciamento de empreendimentos gastronômicos"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de Lógica de programação e Algoritmo",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Fundamentos de programação do zero"
+    },
+    {
+      "interesse_evento_curso": "Desenvolvimento web",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "HTML5; CSS3; SASS; BootStrap; ES6; PHP7; MySQL; MVC; APIs."
+    },
+    {
+      "interesse_evento_curso": "Introdução ao BackEnde com NodeJs e Express",
+      "instituicao": "Samsung Ocean",
+      "resumo_conhecimentos_interesses": "Iniciação de NodeJs e Express"
+    },
+    {
+      "interesse_evento_curso": "Java",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Todo conhecimento de Java."
+    },
+    {
+      "interesse_evento_curso": "Inglês",
+      "instituicao": "Senac - PE",
+      "resumo_conhecimentos_interesses": "Leitura e escrita."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 0
+    }
+  ]
+}
