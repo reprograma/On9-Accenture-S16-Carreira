@@ -1,0 +1,160 @@
+{
+  "nome_completo": "Jennyffer Novaes de Morais",
+  "o_que_eu_quero": "Migrei da Advocacia para a área de TI e, quero muito trabalhar com Desenvolvimento de Software, em projetos que me permitam consolidar conhecimento, aprender novas tecnologias e crescer profissionalmente",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/jennyfferndemorais/",
+  "link_github": "https://github.com/jennyffermorais",
+  "email": "jnm.morais@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou Advogada e Graduanda em Análise e Desenvolvimento de Sistemas.",
+    "A advocacia me possibilitou desenvolver habilidades como gestão de conflitos, resolução de problemas de clientes, trabalho com prazos e sob pressão e, sei que essas habilidades também podem somar na área de tecnologia.",
+    "Eu quero atuar na para área de TI pois, é uma área que eu sempre gostei muito e, acho que é o momento de buscar trabalhar nesse ramo que desperta tanto minha curiosidade e interesse.",
+    "Em 2019 eu participei do projeto chamado {Reprograma}. Um projeto que ensina programação para mulheres e, eu amei aprender Desenvolvimento Front End (HTML, CSS, JavaScript). Como projeto final, desenvolvemos um site que conta a história de várias mulheres incríveis para a história e para o mundo.",
+    "Neste ano de 2020 eu fiz parte da turma de Desenvolvimento Back End (NodeJS) da {Reprograma}. Além disso, eu estou me dedicando aos estudos de React e Python."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagiária de Desenvolvimento de Software",
+      "empresa": "Grupo Parvi",
+      "periodo": "Ago/2020 - Atualmente",
+      "atividades_desenvolvidas": "Desenvolvimento de RPAs (Robotic Process Automation) com Python e Selenium. Desenvolvimento de aplicações com React e NodeJS.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Desenvolvedora Front-End",
+      "empresa": "Freelance",
+      "periodo": "Jul/2020",
+      "atividades_desenvolvidas": "Projeto freelance para criação dos estilos para um site que mostra os dados referentes aos gastos da Prefeitura do Recife, com o combate ao Covid-19.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Advogada",
+      "empresa": "Urbano e Vitalino Advogados",
+      "periodo": "Jan/2020 a Ago/2020",
+      "atividades_desenvolvidas": "Responsável pela revisão de defesas e prazos cumpridos por advogados redatores, na área trabalhista.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Advogada",
+      "empresa": "Negrelly & Rupf Advogados",
+      "periodo": "Nov/2018 a Jul/2019",
+      "atividades_desenvolvidas": "Responsável pela condução de processos nas áreas do Direito Tributário, Direito Civil e Direito Empresarial. Elaboração de peças processuais, relatórios e pareceres jurídicos. Atendimento ao cliente, realização de audiências e controle da planilha de prazos do escritório.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Advogada",
+      "empresa": "Ramacciotti Advogados",
+      "periodo": "Fev/2016 a Nov/2018",
+      "atividades_desenvolvidas": "Fui estagiária nesse escritório (fev/2016 a dez/2016), atuando com dedicação e compromisso, o que efetivou minha promoção para Advogada em janeiro de 2017. Como Advogada fui responsável pela condução de processos nas áreas do Direito do Trabalho, Direito Administrativo e Direito Previdenciário. Elaboração de peças processuais, pareceres e relatórios. Atendimento ao cliente, realização de audiências e controle da planilha de prazos do escritório.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Faculdade Estácio",
+      "periodo": "Jul/2019 - Atualmente",
+      "resumo_conhecimentos_aprendidos": "Análise e Desenvolvimento de Sistemas."
+    },
+    {
+      "curso": "Bootcamp Desenvolvimento Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de APIs com NodeJS, RestAPI, MongoDB, ExpressJS e Nodemon."
+    },
+    {
+      "curso": "Bootcamp Desenvolvimento Front-End",
+      "instituicao": "Reprograma",
+      "periodo": "Out/2019 a Dez/2019",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de Websites com HTML5, CSS3, Bootstrap, JavaScript, Jquery e, versionamento com Git e GitHub."
+    },
+    {
+      "curso": "Bacharelado em Direito",
+      "instituicao": "Faculdade de Direito de Vitória",
+      "periodo": "Fev/2012 a Dez/2016",
+      "resumo_conhecimentos_aprendidos": "Inscrita na OAB desde fevereiro de 2017. Pós-graduada em Direito Tributário."
+    },
+    {
+      "curso": "Técnico em Administração",
+      "instituicao": "Ceet Vasco Coutinho",
+      "periodo": "Fev/2010 a Dez/2011",
+      "resumo_conhecimentos_aprendidos": "Eixo tecnológico de gestão de negócios."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Bootcamp UX Design",
+      "instituicao": "How Bootcamps",
+      "resumo_conhecimentos_interesses": "Métodos, conceitos e práticas de UX Design"
+    },
+    {
+      "interesse_evento_curso": "Python 3 Parte 1: Introdução À Nova Versão Da Linguagem ",
+      "instituicao": "Alura Cursos Online",
+      "resumo_conhecimentos_interesses": "Introdução à linguagem Python"
+    },
+    {
+      "interesse_evento_curso": "Desenvolvimento Front-End",
+      "instituicao": "Platzi",
+      "resumo_conhecimentos_interesses": "Desenvolvimento de websites com HTML, CSS, JavaScript e, versionamento com Git e GitHub"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB/GITLAB",
+
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 7
+    }
+  ]
+}
