@@ -1,0 +1,184 @@
+{
+    "nome_completo": "Michelle Lícia Souza da Silva",
+    "o_que_eu_quero": "Eu quero me tornar uma profissional da área de segurança da informação voltada para desenvolvimento de aplicações e futuramente exercer minha formação como professora de tecnologia.",
+    "cidade_estado:": "Jaboatão dos Guararapes/PE",
+    "link_linkedin": "https://www.linkedin.com/in/michellelicia/",
+    "link_github": "https://github.com/miclicia",
+    "email": "michellelicia98@gmail.com",
+    "um_pouco_sobre_mim": [
+        "Sou uma jovem natural de Jaboatão dos Guararapes/PE, apaixonada por segurança da informação, backend e música!.",
+        "Amo cantar, compor e gravar músicas, aprender sobre culturas, idiomas e novas tecnologias. Sempre estou buscando novos conhecimentos!",
+        "Fui a primeira da família a estudar em uma universidade pública e a primeira a ser aprovada em 3 programas de bolsas de intercambio.",
+        "Como estudante de Licenciatura em Computação e futura professora, meu sonho é obter o maior conhecimento possível para me tornar uma profissional capacitada e fazer com que a tecnologia transforme vidas, assim como transformou a minha."
+    ],
+    "no_que_ja_trabalhei": [
+        {
+            "cargo_funcao": "Jovem Aprendiz de RH",
+            "empresa": "UNIFG",
+            "periodo": "Nov/2016 a Set/2017",
+            "atividades_desenvolvidas": "Administração de planilhas em excel e suporte em seleções.",
+            "link": "https://unifg.edu.br/"
+        },
+        {
+            "cargo_funcao": "Assistente administrativo",
+            "empresa": "UNIFG",
+            "periodo": "Set/2017 a Jun/2018",
+            "atividades_desenvolvidas": "Rotinas de administração acadêmica da pós-graduação, suporte na criação do plano de aula e atendimento ao aluno",
+            "link": "https://unifg.edu.br/"
+        },
+        {
+            "cargo_funcao": "Operador Suporte I",
+            "empresa": "UNIFG",
+            "periodo": "Jul/2018 a Jan/2019",
+            "atividades_desenvolvidas": "Atendimento de service desk N1 e controle de acessos aos sitemas",
+            "link": "https://unifg.edu.br/"
+        },
+        {
+            "cargo_funcao": "Analista de SI - Controle de Acessos",
+            "empresa": "Accenture",
+            "periodo": "Jan/2019 a Atualmente",
+            "atividades_desenvolvidas": "Responsável por realizar a passagem de conhecimento para a equipe local durante a transição com a antiga empresa prestadora de serviços no cliente; Validação de acessos, realizando a revogação de usuários desligados e deletados por inatividade em servidores, bancos de dados oracle e aplicações , garantindo a segurança do ambiente; Responsável pelas solicitações da auditoria GRC e Controles Internos; Extrações dos usuários e grupos do Active Directory, servidores (Windows e Unix), banco de dados Oracle e aplicações do cliente para validações,Prestar suporte à usuários a fim de solucionar problemas de acesso nos sistemas; Gerenciamento de usuários através do IDM, Active Directory, utilizando PowerShell, AdAudit e AdManager; Gerenciamento de tickets através do jira; Criação de acesso para transferência de dados através do RiverSoft; Liberação de acessos à VPN Cisco, ODI 11 e 12c, BRM e TOA",
+            "link": "https://www.accenture.com/"
+        }
+    ],
+    "o_que_ja_estudei": [
+        {
+            "curso": "Tecnico em Redes de Computadores",
+            "instituicao": "ETE Maximiano Accioly Campos",
+            "periodo": "Jan/2013 a Dez/2015",
+            "resumo_conhecimentos_aprendidos": "Gerenciamento de Redes"
+        },
+        {
+            "curso": "Licenciatura em Computação",
+            "instituicao": "Universidade Federal Rural de Pernambuco",
+            "periodo": "Ago/2018 a Atualmente",
+            "resumo_conhecimentos_aprendidos": null
+        },
+        {
+            "curso": "Bootcamp backend",
+            "instituicao": "Reprograma",
+            "periodo": "Ago/2020 a Dez/2020",
+            "resumo_conhecimentos_aprendidos": "18 semanas de aula que abordou Git & Github, Lógica de Programação, Javascript, Rest API, Node.js, MongoDB e mentorias de carreira, além de criação de projetos práticos."
+        }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+        {
+            "interesse_evento_curso": "CCNA - Introduction to Network - 70h",
+            "instituicao": "Cisco",
+            "resumo_conhecimentos_interesses": "Conceitos básicos sobre redes de computadores"
+        },
+        {
+            "interesse_evento_curso": "Certified Network Security Specialist (CNSS)",
+            "instituicao": "ICSI (International CyberSecurity Institute), UK",
+            "resumo_conhecimentos_interesses": "Conceitos sobre segurança na internet e redes de computadores."
+        },
+        {
+            "interesse_evento_curso": "Cybersecurity Essentials",
+            "instituicao": "CISCO",
+            "resumo_conhecimentos_interesses": "Conceitos básicos sobre cybersegurança."
+        },
+        {
+            "interesse_evento_curso": "EXIN Secure Programming Overview",
+            "instituicao": "PMG Academy",
+            "resumo_conhecimentos_interesses": "Conceitos básicos sobre segurança na criação de aplicações."
+        }
+    ],
+    "no_que_me_destaco": [
+        {
+            "habilidade_ferramenta": "Servidores Unix",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "Servidores Windows",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "Gestão de Acessos",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "JAVASCRIPT",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "Python",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "NODE",
+            "pontuacao": 3
+        },
+        {
+            "habilidade_ferramenta": "GIT/GITHUB",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "Java",
+            "pontuacao": 4
+        },
+        {
+            "habilidade_ferramenta": "Banco de dados",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+            "pontuacao": 4
+        },
+        {
+            "habilidade_ferramenta": "RESPONSIVIDADE",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "UX DESIGN",
+            "pontuacao": 4
+        },
+        {
+            "habilidade_ferramenta": "Redes de Computadores",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "Auditoria de acessos",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "Segurança da Informação",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "Inglês",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "Espanhol",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "Francês",
+            "pontuacao": 4
+        },
+        {
+            "habilidade_ferramenta": "SCRUM",
+            "pontuacao": 4
+        },
+        {
+            "habilidade_ferramenta": "Devops",
+            "pontuacao": 4
+        },
+        {
+            "habilidade_ferramenta": "Powershell",
+            "pontuacao": 4
+        },
+        {
+            "habilidade_ferramenta": "Active Directory",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "IDM",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "Jira",
+            "pontuacao": 6
+        }
+    ]
+}
