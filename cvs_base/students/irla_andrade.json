@@ -1,0 +1,134 @@
+{
+  "nome_completo": "Irla Paula Andrade Amaral",
+  "o_que_eu_quero": "Eu quero é ingressar no mercado de tecnologia, me tornar engenheira de software e utilizar a tecnologia para ajudar as pessoas",
+  "cidade_estado:": "Camaragibe/PE",
+  "link_linkedin": "https://www.linkedin.com/in/irlaandrade/",
+  "link_github": "https://github.com/irlaandrade",
+  "email": "paula.irla@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Recifense, 27 anos. Apaixonada por tecnologia, motivada a estar em constante aprendizado e sempre em busca de desafios.",
+    "Minha primeira área de formação foi administração, atuei com rotinas administrativas e atendimento ao público, mas eu não me sentia realizada, então decidir entrar no mundo da tecnologia que sempre me despertou interesse. Conhecer a reprograma me deu a certeza de que é essa a área que quero seguir.",
+    "Nas horas vagas eu gosto de ler, jogar, pedalar, viajar e cozinhar, principalmente brownies e bolos.",
+    "Sou instigada por aprender algo novo, compartilhando conhecimento com outras pessoas. Adaptação, disciplina e qualidade fazem parte do meu perfil."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Assistente de Atendimento ao Cidadão",
+      "empresa": "Secretaria de Administração de Pernambuco ",
+      "periodo": "Out/2017 a atualmente",
+      "atividades_desenvolvidas": "Apoio à administração, orientação e atendimento ao cidadão; Reconhecimento por saber de todos os processos administrativos em menos de dois meses, sendo procurada constantemente por colaboradores e próprio coordenador de setor para esclarecer dúvidas; Redução de deslocamentos desnecessários de requerente devido a transmissão limpa e coesa de informações; Realização de cadastro de dados no sistema; Responsável pela emissão de documentos; Responsável por controle de processos, estatísticas e monitoramento de custos com uso de planilhas automáticas; Responsável por controle de frequências de pessoal; Realização de relatórios administrativos; Construção de análises semestrais das atividades da gerência administrativa do Expresso Cidadão de Pernambuco; Trabalho reconhecido por produzir apresentações bem resumidas e diretas.",
+      "link": "http://www.sad.pe.gov.br/web/sad"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Sistemas para Internet",
+      "instituicao": "Faculdade Imaculada Conceição do Recife - FICR",
+      "periodo": "Em andamento - Jan/2020 a Dez/2021",
+      "resumo_conhecimentos_aprendidos": "Metodologias, tecnologias e ferramentas da Engenharia de Software; Linguagens de programação, desenvolvimento web e Bancos de Dados."
+    },
+    {
+      "curso": "Bootcamp Desenvolvimento Back-End",
+      "instituicao": "{reprograma}",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "JavaScript; Node.js; Servidor; Rotas; Status Code; Postman; API; MongoDB; Git; GitHub."
+    },
+    {
+      "curso": "Bootcamp Programador de Software Iniciante",
+      "instituicao": "IGTI",
+      "periodo": "Jul/2020 a Ago/2020",
+      "resumo_conhecimentos_aprendidos": "Fundamentos: Javascript, HTML e CSS; Introdução ao Java, Algoritmos e Estruturas de Dados com Java e Python."
+    },
+    {
+      "curso": "Administração",
+      "instituicao": "Universidade de Pernambuco - UPE",
+      "periodo": "Jan/2011 a Ago/2015",
+      "resumo_conhecimentos_aprendidos": "Planejamento estratégico, finanças e orçamentos, recursos humanos e marketing"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Laboratório de Backend e Banco de Dados com MongoDB",
+      "instituicao": "Samsung Ocean",
+      "resumo_conhecimentos_interesses": "API e MongoDB"
+    },
+    {
+      "interesse_evento_curso": "Laboratório de Backend com NodeJs e Express",
+      "instituicao": "Samsung Ocean",
+      "resumo_conhecimentos_interesses": "Node.js, verbos HTTP e rotas"
+    },
+    {
+      "interesse_evento_curso": "Desenvolvimento Ágil: DevOps GIT",
+      "instituicao": "Samsung Ocean",
+      "resumo_conhecimentos_interesses": "Git e GitHub"
+    },
+    {
+      "interesse_evento_curso": "Programando para web com Python, CSS e HTML",
+      "instituicao": "Samsung Ocean",
+      "resumo_conhecimentos_interesses": "Integração do Python com HTML e CSS"
+    },
+    {
+      "interesse_evento_curso": "Linguagem Python: avançando na linguagem",
+      "instituicao": "Samsung Ocean",
+      "resumo_conhecimentos_interesses": "Introdução ao Python, variáveis e operadores"
+    },
+    {
+      "interesse_evento_curso": "Do Básico ao Avançado – O Curso Completo de Microsoft Excel",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Consultas, funções e macros"
+    },
+    {
+      "interesse_evento_curso": "Curso Lógica de Programação Essencial",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Algoritmos e lógica"
+    },
+    {
+      "interesse_evento_curso": "Curso Projetos Ágeis com SCRUM",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Metodologia Ágil"
+    },
+    {
+      "interesse_evento_curso": "Curso Cidadania Digital e Segurança",
+      "instituicao": "Google for Education ",
+      "resumo_conhecimentos_interesses": "Boa práticas e segurança na rede"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    }
+  ]
+}
