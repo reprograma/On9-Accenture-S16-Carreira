@@ -43,6 +43,12 @@
     ],
     "o_que_ja_estudei": [
         {
+            "curso": "Bootcamp programação Back-end",
+            "instituicao": "REPROGRAMA",
+            "periodo": "Agosto/2020 a Dezembro/2020",
+            "resumo_conhecimentos_aprendidos": "Conhecimento teórico e prático sobre a programação da tecnologia Back-end utitilizando as ferramentas NodeJs, VScode e a linguagem JavaScript."
+        },
+        {
             "curso": "Técnico em Desenvolvimento de Sistemas",
             "instituicao": "ETEPAC - Escola Técnica Estadual Professor Antônio Carlos Gomes da Costa",
             "periodo": "Setembro/2019 a Julho/2021",
