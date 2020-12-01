@@ -1,0 +1,70 @@
+{
+    "nome_completo": "Manoela Paloma Sena da Silva",
+    "o_que_eu_quero": "Eu quero mudar de área de atuação, me tornar uma engenheira de Software, contribuir para o crescimento da atuação de mulheres no mercado da tecnologia",
+    "cidade_estado:": "Camaragibe-PE",
+    "link_linkedin": "https://www.linkedin.com/in/manoela-sena-573a08164/",
+    "link_github": "https://github.com/Palinha07",
+    "email": "manoela.pala@gmail.com",
+    "um_pouco_sobre_mim": [
+        "Sou Manoela, tenho 27 anos, uma paixão por tecnologia e uma vontade enorme de sempre aprender mais",
+        "Sou formada em Secretáriado Executivo pela UFPE, já atuei como sercretária executiva e como auxiliar administrativo, no momento estou finalizando o Bootcamp de Back-end da Reprograma",
+        "Eu gosto de assistir filmes, ler, ouvir musicas, tocar bateria, sair com os amigos e curtir a família",
+        "Estou em transição de carreira pois pretendo trabalhar com algo que eu gosto. Antes mudar de carreira parecia algo distante, mas o Reprograma me mostrou que sou capaz e que esse mercado de trabalho tem espaço para mim."
+    ],
+    "no_que_ja_trabalhei": [
+        {
+            "cargo_funcao": "Secretária Executiva",
+            "empresa": "Williams Serviços Marítimos LTDA",
+            "periodo": "jun/2015 a set/2016",
+            "atividades_desenvolvidas": "Assessoria executiva, atendimento ao publico interno e externo, envio e recebimento de documentos, organização da agenda, axiliar contábil.",
+            "link": "http://williams.com.br/"
+        },
+        {
+            "cargo_funcao": "Auxiliar Administrativo",
+            "empresa": "Adilson Ramos de Moura Eireli - ME",
+            "periodo": "Jun/2017 a ago/2019",
+            "atividades_desenvolvidas": "Analise ERP, logística, emissão de notas fiscais, emissão de conhecimento de carga, calculo de custos e preço de venda de produtos, controle de estoque, auxiliar contábil.",
+            "link": "https://www.ceasape.org.br/comerciantes/?q=varej%C3%A3o+das+embalagens#geral"
+        }
+    ],
+    "o_que_ja_estudei": [
+        {
+            "curso": "Secretariado Executivo",
+            "instituicao": "Universidade Federal de Pernambuco",
+            "periodo": "Jun/2011 a abr/2015",
+            "resumo_conhecimentos_aprendidos": "Estudos das técnicas secretariais, da gestão secretarial, da administração e planejamento estratégico nas organizações públicas e privadas, de organização e métodos, de psicologia empresarial, de ética geral e profissional."
+        },
+        {
+            "curso": "Desenvolvedora Back-end",
+            "instituicao": "Bootcamp Reprograma",
+            "periodo": "ago/2020 a Dez/2020",
+            "resumo_conhecimentos_aprendidos": "JavaScript, Node.js, Restfull API, mongo DB, Git, Github, NPM, HTML"
+        }
+    ],
+    "no_que_me_destaco": [
+        {
+            "habilidade_ferramenta": "HTML",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "JAVASCRIPT",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "NODE",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "GIT/GITHUB",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "MONGO DB",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "PHOTOSHOP",
+            "pontuacao": 5
+        }
+    ]
+}
