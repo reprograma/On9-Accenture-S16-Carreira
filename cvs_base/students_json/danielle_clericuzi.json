@@ -1,0 +1,135 @@
+{
+  "nome_completo": "Danielle Clericuzi Cavalcanti",
+  "o_que_eu_quero": "Meu objetivo é atuar na área de QA, como desenvolvedora de testes automatizados",
+  "cidade_estado:": "Olinda/PE",
+  "link_linkedin": "https://www.linkedin.com/in/danielle-clericuzi/",
+  "link_github": "https://github.com/daniclericuzi",
+  "email": "danielleclericuzi@hotmail.com",
+  "um_pouco_sobre_mim": [
+    "Curiosa e sempre interessada em aprender, decidi esse ano ingressar no curso de Análise e Desenvolvimento de Sistemas, 
+    vi nas comunidades femininas um apoio e rede que me instigaram no start para mergulhar cada vez mais na área de TI. 
+    Graduada em Turismo, Administração e Pós-graduada em Finanças, já olhava para Tecnologia com curiosidade há alguns anos.
+    Dessa trajetória não convencional, construi minhas experiência, aperfeiçoei soft skills e sigo determinada.
+     Valorizo o desenvolvimento contínuo e acredito que o conhecimento deva ser compartilhado para que a tecnologia seja instrumento de mudança social."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Analista de Testes Júnior",
+      "empresa": "Neurotech",
+      "periodo": "Ago/2020 até o momento",
+      "atividades_desenvolvidas": "Atuação como analista de testes, atuando com a criação de casos de testes e automação. Uso das ferramentas: Selenium, Git, SoapUI, Jmeter, AWS.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Analista de Sistemas Pleno SAP",
+      "empresa": "Accenture",
+      "periodo": "Mar/2018 a Ago/2020",
+      "atividades_desenvolvidas": "Atuação em Projeto Global, como analista funcional SAP módulo FI, na análise e resolução de incidentes e customização de novas soluções de acordo com os requisitos de negócios, realizando atividades de: verificação de escopo e estimativa, elaboração de especificações funcionais às configurações do sistema, desenvolvimento de novas configurações, suporte a equipe de Desenvolvimento, UAT, testes funcionais objetivando garantir a qualidade do produto.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Assistente de Crédito e Cobrança",
+      "empresa": "Estaf Equipamentos",
+      "periodo": "Jun/2015 a Mar/2018",
+      "atividades_desenvolvidas": "Elaboração e análise de relatórios de cobrança, negociação de débitos, assegurando os recebíveis da companhia e o relacionamento com os clientes e Potencialização de novos negócios mediante análise de crédito econômico/financeiro e estudo de relatórios com foco no gerenciamento de receita.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Finanças Aplicadas",
+      "instituicao": "PUC-MG",
+      "periodo": "Set/2017 a Jun/2019",
+      "resumo_conhecimentos_aprendidos": "Conceitos relacionados a Finanças, como matemática financeira, contabilidade, controladoria."
+    },
+    {
+      "curso": "Administração de Empresas",
+      "instituicao": "AESO",
+      "periodo": "Fev/2013 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": null
+    },
+    {
+      "curso": "Turismo",
+      "instituicao": "UFPE",
+      "periodo": "Fev/2008 a Dez/2012",
+      "resumo_conhecimentos_aprendidos": null
+    },
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Introdução a Testes",
+      "instituicao": "Iterasys",
+      "resumo_conhecimentos_interesses": "Planejamento de Testes, Análise, Modelagem e Implementação (Pirâmide de Testes, TDD, BDD, ATDD), Massa de Teste, Testes Manuais e Exploratórios, Testes de Serviços Testes Web (Selenium WebDriver)."
+    },
+    {
+      "interesse_evento_curso": "Curso de Java e Orientação a Objetos",
+      "instituicao": "Loiane Training",
+      "resumo_conhecimentos_interesses": "Introdução ao Java e conceitos de Orientação a Objetos"
+    },
+    {
+      "interesse_evento_curso": "Java Completo Programação Orientada a Objetos",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Introdução ao Java e conceitos de Orientação a Objetos"
+    },
+    {
+      "interesse_evento_curso": "Aprendendo Programação com JavaScript",
+      "instituicao": "OpenClassrooms",
+      "resumo_conhecimentos_interesses": "Lógica de programação e algoritmos usando JavaScript"
+    },
+    {
+      "interesse_evento_curso": "Construindo suas Primeiras Web Pages com HTML e CSS",
+      "instituicao": "OpenClassrooms",
+      "resumo_conhecimentos_interesses": "Introdução a html e css para construção de uma página estática"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVA",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "SELENIUM WEBDRIVER",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "SOAPUI",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JMETER",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 5
+    }
+  ]
+}
