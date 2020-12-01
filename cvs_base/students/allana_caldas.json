@@ -1,0 +1,216 @@
+{
+    "nome_completo": "Allana Caldas Mota Barros",
+    "o_que_eu_quero": "Nessa jornada como Desenvolvedora, procuro uma oportunidade que contribua para o meu desenvolvimento profissional e técnico, num ambiente inclusivo, diverso e incentivador da aprendizagem contínua e coletiva. ",
+    "cidade_estado:": "Olinda/PE",
+    "link_linkedin": "https://www.linkedin.com/in/allanacaldas",
+    "link_github": "https://github.com/allanacaldas",
+    "email": "allanacaldas@gmail.com",
+    "um_pouco_sobre_mim": [
+        "Eu sou Allana. Nasci no Recife e fui criada em Olinda, mas amo igualmente as duas cidades. Sou uma vegetariana apaixonada por história, tecnologia e astronomia.",
+        "Sou graduada em Administração e minha migração de carreira se iniciou após ter participado de um Bootcamp de FrontEnd promovido pelo Reprograma em 2019. Desde então, sigo disposta a aprender outras ferramentas e linguagens de programação, aproveitando oportunidades - como ser uma das alunas do BootCamp de BackEnd do Reprograma em parceria com a Accenture - para progredir na carreira de Desenvolvedora de Software",
+        "Nas horas vagas - além de testar receitas veganas da internet - eu leio sobre o Cosmos, ciências sociais e referências femininas na história e aproveito o tempo com meu namorado, minha família e seu recém chegado membro: meu sobrinho de 4 meses."
+    ],
+    "no_que_ja_trabalhei": [
+        {
+            "cargo_funcao": "Lead - Projeto Voluntário",
+            "empresa": "Women Who Code Recife",
+            "periodo": "Fev/2020 - atualmente",
+            "atividades_desenvolvidas": "O papel do Lead envolve a formação de grupos de estudos e o desenvolvimento de meetups, artigos, e monitorias",
+            "link": "https://www.womenwhocode.com/recife/about"
+        },
+        {
+            "cargo_funcao": "Monitora - Projeto Voluntário - Aula de Lógica com JS",
+            "empresa": "Reprograma ",
+            "periodo": "26/Jun/2020",
+            "atividades_desenvolvidas": " Auxiliar a Instrutora a sanar as dúvidas - geralmente sobre lógica de programação, algoritmos e conceitos introdutórios de Javascript- e ajudar as alunas em algum problema técnico que ocorresse durante a transmissão.",
+            "link": "https://reprograma.com.br/"
+        },
+        {
+            "cargo_funcao": "Monitora - Projeto Voluntário - Workshop de HTML e CSS",
+            "empresa": "Reprograma ",
+            "periodo": "25/Abr/2020",
+            "atividades_desenvolvidas": "Durante a fase de Workshops, o papel da monitora é orientar as alunas a construírem o projeto proposto - uma página usando HTML e CSS -, esclarecendo as dúvidas do primeiro contato e facilitando o aprendizado.",
+            "link": "https://reprograma.com.br/"
+        },
+        {
+            "cargo_funcao": "Estagiária",
+            "empresa": "Gerência de Planejamento Estratégico - TCE/PE ",
+            "periodo": "Out/2015 - Jan/2016",
+            "atividades_desenvolvidas": "Acompanhamento do modelo estratégico de Gestão e Governança do Tribunal, atendimento ao público interno, elaboração de relatórios e tabelas e controle de indicadores e metas através do software Channel.",
+            "link": "https://www.tce.pe.gov.br/internet/"
+        },
+        {
+            "cargo_funcao": "Estagiária",
+            "empresa": "Centro de Apoio Operacional às Promotorias de Justiça de Defesa do Consumidor - MPPE ",
+            "periodo": "Mar/2015 - Set/2015",
+            "atividades_desenvolvidas": "Atendimento ao público interno e externo, envio de informações para outras Promotorias do Consumidor, elaboração de relatórios e registro de queixas dos consumidores.",
+            "link": "https://www.mppe.mp.br/mppe/"
+        },
+        {
+            "cargo_funcao": "Estagiária",
+            "empresa": "Gerência de Gestão do Desempenho - Gerência de Aperfeiçoamento de Competências - TJPE ",
+            "periodo": "Mar/2013 - Mar/2015",
+            "atividades_desenvolvidas": "Atendimento ao público interno, identificação de demandas de capacitação dos servidores e magistrados (congressos, treinamentos in company e cursos de pós - graduação) elaboração de pareceres técnicos e cadastro de certificados em ficha funcional.",
+            "link": "https://www.tjpe.jus.br/"
+        }
+    ],
+    "o_que_ja_estudei": [
+        {
+            "curso": "BackEnd Development Bootcamp",
+            "instituicao": "Reprograma",
+            "periodo": "Ago - Dez/2020",
+            "resumo_conhecimentos_aprendidos": "O bootcamp durou 18 semanas e abordou Git & Github, Lógica de Programação, Javascript, Rest API, Node.js, MongoDB e mentorias de carreira, além da realização de 4 projetos práticos junto com as alunas."
+        },
+        {
+            "curso": "FrontEnd Development Bootcamp",
+            "instituicao": "Reprograma",
+            "periodo": "Out - Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Foram 8 semanas com carga horária de 156,5 horas distribuídas entre programação FrontEnd (HTML, CSS, JavaScript, JQuery) e orientação profissional."
+        },
+        {
+            "curso": "Bacharelado em Administração",
+            "instituicao": "Universidade Federal de Pernambuco",
+            "periodo": "Julho/2011 - Dez/2015",
+            "resumo_conhecimentos_aprendidos": "O curso de Bacharelado em Administração tem como objetivo formar pessoas capazes de assumir funções gerenciais nas organizações, mediante o domínio de competências técnicas e instrumentais que foram apresentadas ao longo de nove semestres."
+        }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+        {
+            "interesse_evento_curso": "HTTP: Entendendo a Web por baixo dos panos",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Entendimento de conceitos como: Criptografia simétrica e assimétrica, Cliente, Servidor, Protocolo HTTP, Request, Response, Metódos, StatusCode, etc "
+        },
+        {
+            "interesse_evento_curso": "JS na Web: Manipule o DOM com JavaScript",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Conhecendo a árvore do DOM, ouvindo comportamentos do formulário, aprendendo a adicionar item na lista de tarefas, concluir tarefas e removê-las"
+        },
+        {
+            "interesse_evento_curso": "Flexbox: Posicione elementos na tela",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Entendimento de conceitos como: introdução ao Flexbox e criação de um cabeçalho e footer responsivo, grid principal e limitações do flexbox e principais funcionalidades para mobile"
+        },
+        {
+            "interesse_evento_curso": "Introdução ao Backend com NodeJs e Express",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Primeiros passos com o Node + Express na prática, criando uma API e reproduzindo um C.R.U.D através dos métodos POST, GET, PUT, PATCH e DELETE"
+        },
+        {
+            "interesse_evento_curso": "JavaScript: Programando a Orientação a Objetos",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Entendimento de conceitos como: Repetição de código, adição de comportamentos, modularização de código, acesso a atributos privados, construtores e estáticos"
+        },
+        {
+            "interesse_evento_curso": "Web Design Responsivo: Páginas que se adaptam do mobile ao desk",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Entendimento de conceitos como: Design fluído, Media queries, Workflow e Viewport, Menu responsivo, Imagens vetoriais, Imagens responsivas e Dicas de UX para Mobile"
+        },
+        {
+            "interesse_evento_curso": "Git e Github: Controle e compartilhe seu código",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Entendimento de conceitos como: versionamento e compartilhamento de código em equipe, entendendo a master e criando branchs, manipulando versões e gerando entregas"
+        },
+        {
+            "interesse_evento_curso": "JavaScript: Programando na linguagem da web",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Entendimento de conceitos como: Variáveis e operadores; Arrays, loops e estilos; Eventos, formulários e criando elementos; Boas práticas com Javascript; Validação de Formulários; Remoção, delegação e animação; Filtragem uma tabela e Ajax"
+        },
+        {
+            "interesse_evento_curso": "Lógica de programação II: pratique com desenhos, animações e um jogo",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Entendimento de conceitos como: gráficos com Canvas, extraindo funções, interação com o usuário, movimentação de elementos, animação simples e construção do nosso primeiro jogo"
+        },
+        {
+            "interesse_evento_curso": "Lógica de programação I: Os primeiros programas com Javascript e HTML",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Entendimento de conceitos como: comunicação com o usuário, programa dinâmico com variáveis, criação de funcionalidades, condições e repetições de tarefas"
+        },
+        {
+            "interesse_evento_curso": "Projetos ágeis com SCRUM",
+            "instituicao": "Digital Innovation",
+            "resumo_conhecimentos_interesses": "Entendimento de metodologias ágeis"
+        },
+        {
+            "interesse_evento_curso": "HTML5 e CSS3 parte 4: Avançando no CSS",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Opacidade e sombra e design responsivo"
+        },
+        {
+            "interesse_evento_curso": "HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Começando um formulário, tipos de campos diferentes, melhorando a semântica e estruturação de tabelas"
+        },
+        {
+            "interesse_evento_curso": "HTML5 e CSS3 parte 2: Posicionamento, listas e navegação",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Navegação entre as páginas, posicionamento de elementos, a tag section, lidando com bordas e pseudo-classes no CSS"
+        },
+        {
+            "interesse_evento_curso": "HTML5 e CSS3 parte 1: A primeira página da Web",
+            "instituicao": "Alura",
+            "resumo_conhecimentos_interesses": "Marcação do primeiro texto, separando o conteúdo e informações, trabalhando com CSS, estilizando imagens, lista e divisões de conteúdo"
+        }
+    ],
+    "no_que_me_destaco": [
+        {
+            "habilidade_ferramenta": "ENGLISH",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "FRANÇAIS",
+            "pontuacao": 4
+        },
+        {
+            "habilidade_ferramenta": "HTML",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "CSS",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "BOOTSTRAP",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "JAVASCRIPT",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "POO",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "JQUERY",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "NODE.JS",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "GIT/GITHUB",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "MONGODB",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "SCRUM",
+            "pontuacao": 4
+        },
+        {
+            "habilidade_ferramenta": "RESPONSIVIDADE",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "PACOTE OFFICE",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "ATENDIMENTO AO CLIENTE",
+            "pontuacao": 10
+        }
+    ]
+}
