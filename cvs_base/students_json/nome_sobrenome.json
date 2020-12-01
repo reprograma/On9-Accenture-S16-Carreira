@@ -6,7 +6,7 @@
   "link_github": "https://github.com/gloriateodoro",
   "email": "gloriateodoro1@gmail.com",
   "um_pouco_sobre_mim": [
-    "Nasci no interior da Bahia, mas atualmente moro em Recife, onde fui buscar melhores oportunidades de estudo. Meus conhecimentos estão mais relacionados ao desenvolvimento backend, entretanto, estou estudando frontend também. Sou apaixonada por instrumentos musicais e tecnológicos. Desde que entrei no mundo da programação, penso que nós, profissionais da tecnologia, estamos aqui para solucionar problemas reais e mostrar o poder da inovação na qualidade de vida. O mundo precisa muito de nós."
+    "Nasci no interior da Bahia, mas atualmente moro em Recife, onde fui buscar melhores oportunidades de estudo. Meus conhecimentos estão mais relacionados ao desenvolvimento backend, entretanto, estou estudando frontend também. Sou apaixonada por instrumentos musicais e meu tempo livre é dedicado à música, a passeios de bicicleta, à leitura, a minha família e aos meus amigos. Desde que entrei no mundo da programação, penso que nós, profissionais da tecnologia, estamos aqui para solucionar problemas reais e mostrar o poder da inovação na qualidade de vida. O mundo precisa muito de nós."
   ],
   "no_que_ja_trabalhei": [
     {
@@ -54,8 +54,7 @@
       "instituicao": "Digital Innovation One",
       "periodo": "Nov/2020 a Dez/2020",
       "resumo_conhecimentos_aprendidos": "Backend em Java; Frontend em Angular"
-    },
-    
+    }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
@@ -69,7 +68,7 @@
       "instituicao": "Curso em Vídeo",
       "periodo": "Ago/2020 - 20 horas",
       "resumo_conhecimentos_aprendidos": "Estudo de versionamento; criação de repositórios; aplicação de ferramentas do GitHub."      
-    },
+    }
   ],
   "no_que_me_destaco": [
 
@@ -112,6 +111,6 @@
     {
       "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
       "pontuacao": 6
-    },
+    }
   ]
 }
