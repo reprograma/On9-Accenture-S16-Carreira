@@ -1,0 +1,148 @@
+{
+  "nome_completo": "Íris Brito de Souza",
+  "o_que_eu_quero": "Meu principal objetivo é trabalhar na área de banco de dados, back-end e me aprofundar na área de Ciência de Dados para me tornar uma cientista de dados futuramente.",
+  "cidade_estado:": "Diadema/SP",
+  "link_linkedin": "https://www.linkedin.com/in/iris-brito/",
+  "link_github": "https://github.com/irisbrito",
+  "email": "irisbritox@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Me chamo Iris e sou apaixonada por livros e tecnologia.",
+    "Fiz um curso técnico em Informática na ETEC, voltado para o desenvolvimento de sistemas e desenvolvi um Software gerenciador para Salão de Beleza em C#.",
+    "Gosto de aprender coisas novas e estar sempre me aprimorando. Tenho inglês avançado e espanhol intermediário.",
+    "Tenho paralisia cerebral leve (CID 10 G-80)"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Bibliotecária - Estágio",
+      "empresa": "Centro Cultural de São Paulo",
+      "periodo": "Mar/2020 - Atual",
+      "atividades_desenvolvidas": "Cadastrar os materiais da biblioteca no sistema, desenvolver etiquetas e auxiliar nos processos físicos do acervo, acompanhar a circulação de materiais como empréstimos, devoluções, renovações, atendimento aos usuários",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Técnico em Informática",
+      "instituicao": "Etec Juscelino Kubitschek de Oliveira",
+      "periodo": "Jul/2017 a Dez/2018",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de software, hardware, segurança, empreendedorismo, análise de sistemas, lógica de programação, HTML, CSS, C#, Java, PHP, MySQL, SQL"
+    },
+    {
+      "curso": "Biblioteconomia (Bacharelado)",
+      "instituicao": "Centro Universitário Claretiano",
+      "periodo": "Jan/2019 a Dez/2021",
+      "resumo_conhecimentos_aprendidos": "Administração, fontes de informação e competência informacional, estudos literários, ação cultural, estudos de usuários, biblioterapia, catalogação, classificação, sistemas de informação"
+    },
+    {
+      "curso": "Bootcamp Back-end",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Lógica de programação, JavaScript, NodeJS, criação de API rest, CRUD, MongoDB, Git, Github, Autenticação"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de HTML, CSS e Javascript",
+      "instituicao": "Programaria",
+      "resumo_conhecimentos_interesses": "Entendimento sobre o front-end, focando em HTML, CSS e Javascript"
+    },
+    {
+      "interesse_evento_curso": "Curso Produção Editorial",
+      "instituicao": "Universidade do Livro (Unesp)",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a produção editorial e seu mercado de trabalho"
+    },
+    {
+      "interesse_evento_curso": "Curso Aplicações de Big Data e Inteligência Artificial",
+      "instituicao": "LABDATA – Laboratório de Análise de Dados da Faculdade FIA de Administração e Negócios.",
+      "resumo_conhecimentos_interesses": "Entendimento sobre Big data e Inteligência Artificial"
+    },
+    {
+      "interesse_evento_curso": "Curso Introdução à programação com Python",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a programação pela linguagem Python"
+    }, 
+    {
+      "interesse_evento_curso": "Curso Laboratório de Backend e Banco de Dados MongoDB",
+      "instituicao": "Ocean - Samsung",
+      "resumo_conhecimentos_interesses": "Trabalhando com API no NodeJS e conexão com MongoDB"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "C#",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Java",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "Python",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Angular",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 7
+    }
+  ]
+}
