@@ -1,0 +1,77 @@
+{
+  "nome_completo": "Vivian Alessandra da Silva Costa",
+  "o_que_eu_quero": "Minha maior aspiração é formar uma carreira fora do país ou em alguma empresa que celebre a pluralidade cultural.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/vivian-costa-721376200/",
+  "link_github": "https://github.com/viviancoixta",
+  "email": "vivianalessandra_@hotmail.com",
+  "um_pouco_sobre_mim": [
+    "Meu nome é Vivian, tenho 20 anos, sou de Gêmeos e nasci e cresci em Recife - PE.",
+    "Estudei a vida toda em escolas públicas e aos 16 anos fui contemplada com um intercâmbio para estudar no Canadá através do Programa Ganhe o Mundo, do governo. Aos 19, fui aceita na Universidade Federal de Pernambuco para cursar Psicologia mas acabei desistindo do curso. Agora, aos 20, estou começando minha trajetória na tecnologia com a aspiração de transformar minha realidade.",
+    "Sou apaixonada por filmes e músicas, e foi através desses meios midiáticos que aprendi o básico de inglês na minha infância. Além disso, tenho facilidade e gosto de estudar outros idiomas e também de jogar vôlei e viajar."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Aprendiz administrativo no setor de RH",
+      "empresa": "Riomar Shopping",
+      "periodo": "Nov/2018 a Abr/2020",
+      "atividades_desenvolvidas": "Auxiliar processos seletivos, entrevistas e recrutamento, organizar eventos, recolher e conferir documentação de candidatos e funcionários, registrar reclamações de funcionários, entre outros.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Programação Back-end",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Conceitos iniciais e versionamento de código, lógica de programação, API, NodeJS, HTTP, servidores, rotas e status code de API's, Banco de Dados, segurança e autenticação, MongoDB, Postman, Insomnia."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso de inglês intermediário e avançado",
+      "instituicao": "Governo de Pernambuco",
+      "resumo_conhecimentos_interesses": "Curso e intercâmbio de inglês, onde pude alcançar a fluência devido aos 5 meses onde morei no Canadá para estudar."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTTP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE JS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "INSOMNIA",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "BANCO DE DADOS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MONGO DB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "VS CODE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "API",
+      "pontuacao": 8
+    }
+    
+  
+  ]
+}
