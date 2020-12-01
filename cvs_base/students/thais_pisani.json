@@ -1,0 +1,91 @@
+{
+    "nome_completo": "Thaís Guedes Guimarães Pisani dos Santos",
+    "o_que_eu_quero": "Expandir meus aprendizados e construir uma carreira sólida na área de tecnologia",
+    "cidade_estado:": "Recife/PE",
+    "link_linkedin": "https://www.linkedin.com/in/thaisgpisani/",
+    "link_github": "https://github.com/thaispisani",
+    "email": "thaispisani_@hotmail.com",
+    "um_pouco_sobre_mim": [
+      "Gosto de me desafiar e explorar ao máximo minhas habilidades, sou dedicada e empática para com as pessoas",
+      "Cursei Engenharia Civil por 5 anos, porém percebi que não me realizaria profissionalmente, então decidi trancar o curso e recomeçar do zero. Atuei em diversas áreas de forma autonoma, até que conheci a Reprograma e me apaixonei pelo curso. ",
+      "Sou apaixonada por esportes, participei de times de futebol e basquete na adolescencia, no momento pratico surf. Além disso, toco violão, estou aprendendo cavaco, produzo uma festa voltada para mulheres e arranho de djs nas horas vagas. Gosto de cozinhar e testar novas receita. ",
+      "Costumo ser bastante solícita e empolgada. E apesar de ser um pouco timída no primeiro contato, em pouco tempo consigo me mostrar mais "
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "Recepcionista",
+        "empresa": "Coclinic",
+        "periodo": "Ago/2018 a Jul/2019",
+        "atividades_desenvolvidas": "Atendimento a cliente, gerenciamento das agendas e pacientes, logisticas da clínica.",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Estagiária de Engenharia Civil",
+        "empresa": "Arcoverde Engenharia",
+        "periodo": "Mar/2016 a Set/2016",
+        "atividades_desenvolvidas": "Levantamento de quantitativos, Orçamentos e fiscalização de serviços executados em obras",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Vendedora",
+        "empresa": "Sobrado 7",
+        "periodo": "Dez/2013 a Mar/2016",
+        "atividades_desenvolvidas": "Organização da loja e estoque, atendimento ao cliente, negociação de valores e prazos, fluxo de caixa, emissão de notas fiscais",
+        "link": "https://www.instagram.com/sobrado7_arte/"
+      },
+      {
+        "cargo_funcao": "Estagiária de Engenharia Civil",
+        "empresa": "Moura Dubeux Engenharia",
+        "periodo": "Ago/2011 a Jul/2013",
+        "atividades_desenvolvidas": "Levantamento de quantitativos, fiscalização de serviços executados em obras, fechamento de folha de pagamento, acompanhamento de quantitativos",
+        "link": "https://www.mouradubeux.com.br/"
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Engenharia Civil",
+        "instituicao": "Universidade Católica de Pernambuco",
+        "periodo": "Jan/2011 a Jul/2016",
+        "resumo_conhecimentos_aprendidos": "Fundação, resistencia dos materiais, estradas"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Curso Web Moderno Completo com JavaScript",
+        "instituicao": "Udemy",
+        "resumo_conhecimentos_interesses": "Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, MySQL"
+      },
+      {
+        "interesse_evento_curso": "Day Trade de Futuros",
+        "instituicao": "RSB",
+        "resumo_conhecimentos_interesses": "Entendimento sobre day trade"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 2
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 2
+      },
+      {
+        "habilidade_ferramenta": "MONGODB",
+        "pontuacao": 5
+      }
+      
+    ]
+  }
