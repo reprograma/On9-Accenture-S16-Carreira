@@ -1,0 +1,95 @@
+{
+  "nome_completo": "Aline de Carvalho Mendes",
+  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/aline-carvalho-mendes-0aa6aa1a6/",
+  "link_github": "https://github.com/seugithubhttps://github.com/aline-carvalho",
+  "email": "alinecarvalhomendes03@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Olá, Atualmente sou estudante de programação e estou em busca de uma oportunidade na área.",
+    "Minhas experiências anteriores.",
+    
+    "Atuação na área Comercial, com ampla experiência em vendas, planejamento, prospecção, fidelização de cliente e administração de carteira.",
+    "Atuação no atendimento a clientes e especificadores, especificação de materiais, negociação de orçamentos, atendimento pós-vendas, esclarecimento de dúvidas sobre produtos, paginações e resolução de problemas.",
+    "Experiência na análise das necessidades do cliente, identificação de perfil do cliente",
+    "elaboração de planos estratégicos para fechamento da venda.",
+    "Habilidade no relacionamento com especificadores, aumento e acompanhamento de carteira ativa, visitas externas e fechamento de parcerias.",
+    "Habilidade em preenchimentos de planilhas e elaboração de apresentações com o foco no comprimento de prazos e metas.",
+
+    "Em 2018 tive a ideia de criar uma pagina no Instagram onde mostro minha rotina",
+    "dicas e aprendizados de uma MÃE DE PRIMEIRA viagem. Criando uma rede de apoio incrível com varias mulheres.",
+    "https://www.instagram.com/eu.maedaliz/"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Assistente comwecial",
+      "empresa": "Churrasquinho Jundiai",
+      "periodo": "Agosto/2014 a Jan/2019",
+      "atividades_desenvolvidas": "Atendimento ao cliente, SAC arquivos em geral. Vendas e digitação de pedidos, comunicação direta com motorista, faturamento, expedição de pedidos, conhecimento de transporte, controle de estoque. Conhecimentos em CT-e e MDF-e.",
+      "link": "http://churrasquinhojundiai.com.br/"
+    },
+    {
+      "cargo_funcao": "Assistente de vendas",
+      "empresa": "Frialto",
+      "periodo": "Out/2013 a Ago/2019",
+      "atividades_desenvolvidas": "Rateio de compras, recepcionamento. Atendimento ao cliente. Conhecimentos em PABX. Faturamento e comunicação direta com motorista",
+      "link": "https://www.linkedin.com/company/frialto/about/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "GIT E GITHUB",
+      "instituicao": "Escola EAD education",
+      "periodo": "Set/2020 a Set/2020",
+      "resumo_conhecimentos_aprendidos": "Introdução, istalação, iniciando repositorio, Conhecendo o git e github"
+    },
+    {
+      "curso": "Backe-end",
+      "instituicao": "Escola Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": " JAVASCRIPT, node.js"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Gsetão de Marketing",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre marketing para redes"
+    }
+  
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "VENDAS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ATENDIMENTO AO CLIENTE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 9
+    }
+  ]
+}
