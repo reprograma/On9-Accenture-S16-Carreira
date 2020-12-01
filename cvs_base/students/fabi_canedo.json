@@ -1,0 +1,146 @@
+{
+  "nome_completo": "Fabíola Canedo Yugar",
+  "o_que_eu_quero": "Atuar na área de devenvolvimento de software como uma profisisonal back-end",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/fabicanedo/",
+  "link_github": "https://github.com/Fabicaneyu",
+  "email": "fabicaneyu@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Desde niña crecí en dos idiomas, en portugués y español, re-gracias a mis padres, soy dichosamente hija de Bolivianos. ",
+    "TRANSIÇÃO é a palavra que marca a minha vida. Começou anos atrás com a vinda dos meus pais para São Paulo e depois eu também passei por uma transição, saindo da área de farmácia e entrando no universo da Tecnologia",
+    "Adorooo assistir séries no netflix, canais no youtube de viagens pelo mundo, me imagino naqueles lugares, ouvir novas músicas e dançar ",
+    "Escolhi uma rede social para chamar de minha e é o linkedin, onde divulgo oportunidades e vagas, lá também sou a FaaS - Fabí as a Solution, pois, depois de entender os problemas quero ajudar na solução"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagiária",
+      "empresa": "Empresa Digital Work C.S.",
+      "periodo": "Ago/2019 a Ago/2020",
+      "atividades_desenvolvidas": "Atuei dentro do time de pós vendas, como suporte as equipes de vendas e aos clientes. Dentre as competências e habilidades destacam-se:Comunicação,oratória e didática para ensinar; Criatividade e melhoria de processos internos; Atuei com produtos: Zebra, Google, Outsourcing de impressão (1 certificação); NOC (network operations center): HP e Aruba Central;SOC (security operations center): Fortinet.",
+      "link": "https://www.linkedin.com/company/digital-work-computer-services/"
+    },
+    {
+      "cargo_funcao": "Projeto Voluntário - Caravana da Prefs 2019",
+      "empresa": "Prefeitura de SP - Campus Party",
+      "periodo": "Dez/2018 a Fev/2019",
+      "atividades_desenvolvidas": "Coordenadora de Caravana - Auxílio na divulgação, captação, organização geral para levar 700 mulheres à Campus Party São Paulo 2019, com o intuito de aumentar a participação de mulheres na tecnologia.",
+      "link": "http://clientefulano.com.br"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Análise e Desenvolvimento de Sistemas - ADS",
+      "instituicao": "Faculdade Bandtec",
+      "periodo": "Jan/2019 a atual",
+      "resumo_conhecimentos_aprendidos": "Negócios e Programação"
+    },
+    {
+      "curso": "Gama Experience XP 34",
+      "instituicao": "Gama Academy",
+      "periodo": "Jul/2020 a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "Front-end [Hacker], trabalho em equipe"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Bootcamp UX Design",
+      "instituicao": "How bootcamps",
+      "resumo_conhecimentos_interesses": "Double Diamond, Miro, Matriz CSD, 5W2H, insights de pesquisa, User stories, Design Principles, rabiscoframe, figma e portifólio. "
+    },
+    {
+      "interesse_evento_curso": "Inglês",
+      "instituicao": "4YOU2",
+      "resumo_conhecimentos_interesses": "Leitura, escrita e escuta de materiais em inglês"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "User Interface",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "PACOTE OFFICE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Java",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "Atendimento ao Cliente",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "Arquitetura de Software",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Inglês",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Espanhol",
+      "pontuacao": 10
+    }
+  ]
+}
