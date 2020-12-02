@@ -1,0 +1,144 @@
+{
+  "nome_completo": "Mariana Martiniano de França",
+  "o_que_eu_quero": "Procuro uma oportunidade para ingressar na área de tecnologia para poder colocar em prática o que já estudei e também me desenvolver mais tecnicamente.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "www.linkedin.com/in/mariana-martiniano-de-frança-7284a642",
+  "link_github": "https://github.com/mariana-franca",
+  "email": "donafran@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Me chamo Mariana França, tenho 36 anos, nasci na capital do país, mas foi em Salvador que me criei e me transformei em mulher.",
+    "Me formei em comunicação, comecei um mestrado, fui Cofundadora de um Coworking e um Gastrobar. Nesse tempo de vida, já vivi em Brasília, Buenos Aires e agora em Recife.",
+    "No momento, estou me dedicando a estudar programação e por isso estou fazendo um curso técnico de Análise e Desenvolvimeto de Sistemas."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Cofundadora, Coordenadora Financeira, RH e Administrativo",
+      "empresa": "Tropos Coworking & Escritório Virtual e Tropos Gastrobar",
+      "periodo": "Jul/2015 a Mar/2020",
+      "atividades_desenvolvidas": " Planejamento financeiro, gerenciamento de contas a pagar e receber, conciliações bancárias, folha de pagamento, recursos humanos e administrativo.",
+      "link": "https://www.instagram.com/tropos.co/?hl=pt-br"
+    },
+    {
+      "cargo_funcao": "Social Media: Produtora de Conteúdo",
+      "empresa": "CMD - Grupo Clarín - Buenos Aires/AR",
+      "periodo": "Mai/2012 a Dez/2014",
+      "atividades_desenvolvidas": "Planejamento e criação de conteúdo para redes sociais, moderadora de comunidade, tradutora e gamer tester.",
+      "link": "https://grupoclarin.com/areas_y_empresas/compania-de-medios-digitales"
+    },
+    {
+      "cargo_funcao": "Custome Care - Latam",
+      "empresa": "Restorando - Buenos Aires/AR",
+      "periodo": "Dez/2012 a Dez/2013",
+      "atividades_desenvolvidas": "Atendimento, online e off-line, aos clientes de paises da America Latina.",
+      "link": "https://www.thefork.com.br/"
+
+    },
+    {
+      "cargo_funcao": "Consultora Junior",
+      "empresa": "The Mind Company - Buenos Aires/AR",
+      "periodo": "Nov/2011 a Mai/2012",
+      "atividades_desenvolvidas": "Pesquisa (primária e secundária), validação das análises e hipóteses junto aos especialistas de mercado fornecendo insights estratégicos para as unidades de negócios da empresa na América Latina e relatório de resultados. ",
+      "link": "https://www.themindco.com/"
+   },
+   {
+      "cargo_funcao": "Vendedora",
+      "empresa": "Livraria Cultura",
+      "periodo": "Jul/2007 a Dez/2009",
+      "atividades_desenvolvidas": "Atendimento e vendas.",
+      "link": "https://www3.livrariacultura.com.br/"
+
+  }      
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "BackEnd Development Bootcamp",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Git & Github, Lógica de Programação, Javascript, Rest API, Node.js, MongoDB. "
+    },
+    {
+      "curso": "Graduação em Comunicação Social: Publicidade e Propaganda",
+      "instituicao": "UNIFACS",
+      "periodo": "Fev/2002 a Dez/2005",
+      "resumo_conhecimentos_aprendidos": "Criação, realização, divulgação, planejamento de peças publicitárias e elaboração de estratégias de comunicação. "
+    }
+  ],
+
+  "o_que_estou_estudando": [
+    {
+      "curso": "Mestrado em Industria Cultural: Politica e Gestão",
+      "instituicao": "Universidad Nacional de Quilmes - Buenos Aires/AR",
+      "periodo": "Jan/2019 a Dez/2022"
+  
+    },
+    {
+      "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+      "instituicao": "IFPE",
+      "periodo": "Nov/2020 a Dez/2022"
+
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Introdução ao Backend com NodeJs e Express",
+      "instituicao": "Samsung Ocean",
+      "resumo_conhecimentos_interesses": "Entendimento sobre construção de API"
+    },
+    {
+      "interesse_evento_curso": "Laboratório de Backend com NodeJs e Express",
+      "instituicao": "Samsung Ocean",
+      "resumo_conhecimentos_interesses": "Laboratório prático de construção API, com NodeJs e Express"
+    },
+    {
+    "interesse_evento_curso": "Laboratório de Backend e Banco de Dados com MongoDB",
+    "instituicao": "Samsung Ocean",
+    "resumo_conhecimentos_interesses": "Ligação da API com o Banco de Dados"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "ESPANHOL",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "MONGO DB",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "POSTMAN",
+      "pontuacao": 5
+    },  
+    {
+      "habilidade_ferramenta": "OFFICE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 5
+    }, 
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 2
+    }
+  ]
+}
