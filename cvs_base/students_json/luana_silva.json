@@ -1,0 +1,219 @@
+{
+  "nome_completo": "Luana Cristina de Albuquerque Silva",
+  "o_que_eu_quero": "Ser referência em desenvolvimento de Software na área que trabalho e conquistar uma vaga de emprego na área de desenvolvimento de Software em outro país. Ajudar outras mulheres a conquistar o seu lugar na área de TI.",
+  "cidade_estado:": "Camaragibe/PE",
+  "link_linkedin": "https://www.linkedin.com/in/luanacristinaas/",
+  "link_github": "https://github.com/luanaCristina",
+  "link_canva": "https://www.canva.com/design/DAEO3AszI1w/igxsafATYhdErJimC2R7yA/view?utm_content=DAEO3AszI1w&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton",
+  "email": "seuemail@gmail.com",
+  "um_pouco_sobre_mim": [
+    "1. Multipotencial, 2. Faço amizade com muita facilidade, tanto que parece que eu cheguei no lugar há um longo tempo, 3. Me adapto muito rápido, 4. Amo fazer coisas diferente, um exemplo é que eu já cursei Engenharia de Pesca, já fiz técnico de administração e marketing, faço esportes radicais, jogo bola, vôlei, basquete canto, toco, jogo vídeo game, leio livros, faço cursos online, bordo, costuro e tudo isso no mesmo mês ou no mesmo dia, 5. Amo ajudar os outros, 6. Tenho empatia, 7. Sou evangélica, 8. mãe de 4 pets.",
+    "Desde criança gostava de coisas mecânicas e brincar na rua e jogar video game daí iniciou a minha trajetória na área de TI e sempre me senti confortável ao lado dos meninos. Na adolescência fiz cursos de informática perto de casa e no Interdata. Escolhi a área de Exatas no ensino médio e ingressei, depois de muito tentar, em Sistemas de Informação com bolsa do PROUNI. Consegui estágio na Accenture nos dois últimos períodos e fui contratada e fiquei lá até 2016. Ingressei na Pós em Engenharia de Software com bolsa de 50% pelo Educa Mais Brasil e depois MBA em Análise de Inteligência de Negócio e agora estou fazendo Residência em Desenvolviemnto de Software e graças ao Reprograma consegui fazer a prova técnica. Por ter perfil de testes e dom para encontrar bugs fiquei pouco tempo na área de desenvolvimento. Minha paixão, meta e desejo em atuar na área de desenvolvimento resurgiu e agora eu estou investindo na área e pretendo absorver e repassar o conhecimento adquirido na minha trajetória àqueles(as) que desejam seguir a área de desenvolvimento de software.",
+    "Amo: ir à igreja e vou todos os domingos e tento ir outros dias, cantar e fazer aulas de canto, jogar vôlei e já fiz parte da seleção de Camaragibe e da UFRPE, treinar Muay Thai (treino há quase 10 anos), treinar kung fu (sou terceira faixa vermelha), jogar society (já participei de diversos campeonatos feminino e masculino), jogar video game (ultimamente estou jogando Mario Kart, The king of fight e xadrez), ler livros (vários no Kindle, PDF e físico), assitir séries coreanas no Kokoa, Viki e Netflix, assitir animes (acompanhando Boruto e os que são lançados na Netflix), ler mangá (atualmente HunterxHunter), desenhar, fazer manual e documentar processo, escutar música (no trabalho e estudando escuto sempre), ser locutora (sou secundária no programa Troop Gospel na Camará FM), passear com meus pets, conversar com meus amigos e familiares, sair com meus amigos e familiares, assistir a filmes no cinema, comprar, comer pizza, lasanha e sobremesas, suco de tamarindo e cupuaçu, tirar fotos, viajar, escrever, bordar, fazer cursos, aprender novas coisas, ajudar aos outros...",
+    "Minha vida é uma icógnita que só Deus sabe a solução."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Residente em desenvolvimento de Software",
+      "empresa": "EMPREL/CIN-UFPE",
+      "periodo": "Out/2020 a Mar/2022",
+      "atividades_desenvolvidas": "Desenvolvimento de soluções de software.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Engenheira de Teste",
+      "empresa": "Projeto CIN-SAMSUNG - FADE",
+      "periodo": "Dez/2018 a Set/2019",
+      "atividades_desenvolvidas": "Criação e execução de testes funcionais, exploratórios, smoke, outlines. Reportar, evidenciar e detalhar os erros encontrados, testar os bugs e manutenção e execução dos testes automatizados. Envio e acompanhamento do status dos testes diário e semanal. Metodologia ágil.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Analista Senior em Tecnologia da Informação alocada na SEFAD/Olinda",
+      "empresa": "Adlim ",
+      "periodo": "Mai/2018 a Dez/2018",
+      "atividades_desenvolvidas": "Levantamento das informações e necessidades dos Stakeholders, documentar (especificação dos requisitos), validar os requisitos, estimar a demanda, negociar a entrega, listar os impedimentos, criar as Transformações e Jobs usando a ferramenta Data Integration da Pentaho (PDI) e PostgreSQL, documentar (realização da carga ETL, Modelagem de Dimensões com Power Architect, Dicionário de Dados, boas práticas, guia do usuário), revisar, colocar em produção e disponibilizar para os stakeholders os cubos modelados com o shema-workbench da Pentaho e acessados por meio da conexão no Saiku no BI server também da Pentaho.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Analista Senior em Tecnologia da Informação alocada na SEFAD/Olinda",
+      "empresa": "Pessoal Engenharia e Serviços terceirizados ",
+      "periodo": "Jun/2017 a Abr/2018",
+      "atividades_desenvolvidas": "Levantamento das informações e necessidades dos Stakeholders, documentar (especificação dos requisitos), validar os requisitos, estimar a demanda, negociar a entrega, listar os impedimentos, criar as Transformações e Jobs usando a ferramenta Data Integration da Pentaho (PDI) e PostgreSQL, documentar (realização da carga ETL, Modelagem de Dimensões com Power Architect, Dicionário de Dados, boas práticas, guia do usuário), revisar, colocar em produção e disponibilizar para os stakeholders os cubos modelados com o shema-workbench da Pentaho e acessados por meio da conexão no Saiku no BI server também da Pentaho.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Adviser - voluntária",
+      "empresa": "Junior Archievment ",
+      "periodo": "Ago/2012 a Nov/2012",
+      "atividades_desenvolvidas": "Aulas expositivas e práticas em encomica e negócios e operações nas organizações para aplicar na mini-empresa. Aconselhar os estudantes no trabalho e na construção da mini-empresa.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Lead - Voluntária",
+      "empresa": "Women Who Code em Recife",
+      "periodo": "Fev/2020 e atualmente",
+      "atividades_desenvolvidas": "Ajudar a mulheres a entrar na área de Tecnologia com divulgações, ensinando e dando conselhos. Artigo em DataScience, trilhas de aprendizado.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Residência em Desenvolvimento de Software na EMPREL",
+      "instituicao": "CIN-UFPE",
+      "periodo": "Out/2020 a Mar/2022",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de Solução de Software."
+    },
+    {
+      "curso": "Bootcamp de Desenvimento BeckEnd",
+      "instituicao": "{reprograma}",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Git e GitHub; JavaScript: variáveis, operadores e condicionais; loop, escopo e função; objetos arrays e métodos; APIs: http, node.js, servidor, rotas, status, code, curl, postman e get, rest, restful, criando a nossa API, post, delete, put, patch, documentação, formatação, testes; MongoDB: autenticação, autorização; carreira: orientação profissional e construção de currículo."
+    },
+    {
+      "curso": "MBA em Análise de Inteligência de Negócios",
+      "instituicao": "Instituto de Gestão e Tecnologia da Informação",
+      "periodo": "Ago/2018 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Habilidades em conduzir iniciativas de Business Intelligence, realizar todas as fases do projeto, manter um diálogo técnico e gerencial. Utilizar informações assertivas e visões analíticas para proporcionar sustentabilidade e vantagens competitivas nas decisões das organziações"
+    },
+    {
+      "curso": "Desenvolvimento FrontEnd - bolsa de estudo Facebook Developer Circles",
+      "instituicao": "Platzi",
+      "periodo": "Dez/2019 a Set/2020",
+      "resumo_conhecimentos_aprendidos": "Programação básica, Git e GitHub, Desenvolvimento de Website, Responsive Design, Introdução ao JavaScript, Desenvolvimento com React.js, Freelance, Marca Pessoa, Redux, Inglês Técnico para profisisonais."
+    },
+    {
+      "curso": "Pós em Engeharia de Software",
+      "instituicao": "UNIBRATEC",
+      "periodo": "Mai/2015 a Mai/2017",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de software desde a concepção até a entrega do produto."
+    },
+    {
+      "curso": "Intercâmbio em Inglês na Nova Zelândia",
+      "instituicao": "Academy English Auckland",
+      "periodo": "Out/2014 a Dez/2014",
+      "resumo_conhecimentos_aprendidos": "Aulas das 9h às 15h com estadia em homestay nativa."
+    },
+    {
+      "curso": "Bacharelado em Sistemas de Informação",
+      "instituicao": "Centro Universitário Maurício de Nassau",
+      "periodo": "Jan/2008 a Dez/2011",
+      "resumo_conhecimentos_aprendidos": "Matemática, estatística, lógica, fundamentos de sistemas de informação, orientação a objeto, banco de dados, análise e proj. de sistemas, arquitetura de computadores, inteligência artificial, sistemas operacionais, teoria geral de sistemas, computação gráfica, linguagens formais e autômatos, metodologia de desenvolvimento de software, psicologia, metodologia científica, técnicas de programação, usabilidade, engenharia de requisitos, redes, empreendedorismo, sistemas cooperativos, métodos quantitativos aplicados a gestão de empresas, sistemas multimídias, gerência de projetos, estrutura de dados, gestão empresaria e de recursos humanos, legislação e ética, segurança e auditoria, inglês."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de Java",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do Java."
+    },
+    {
+      "interesse_evento_curso": "Curso online de PHP",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do PHP."
+    },
+    {
+      "interesse_evento_curso": "Teste",
+      "instituicao": "Teste Automation University - ApplyTools",
+      "resumo_conhecimentos_interesses": "Entendimento sobre os testes manuais e automáticos."
+    },
+    {
+      "interesse_evento_curso": "DataScience ou Data Engineer",
+      "instituicao": "Udacity",
+      "resumo_conhecimentos_interesses": "Entendimento sobre datascience."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JavaScript",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Node.js",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PENTAHO",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "MVC",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "JAVA",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "DATA WAREHOUSE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "ETL",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MAPEAMENTO E DOCUMENTAÇÃO DE PROCESSOS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "TESTES MANUAIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REQUISITOS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "LIDERANÇA",
+      "pontuacao": 7
+    }
+  ]
+}
