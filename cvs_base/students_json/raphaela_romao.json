@@ -1,0 +1,50 @@
+{
+  "nome_completo": "Raphaela Romão Teixeira de Souza",
+  "o_que_eu_quero": "Estou me formando em Obstetrícia pela Universidade de São Paulo (USP), mas estou sempre disposta a aprender e me desafiar. Nesse contexto, estou entrando na área da programação e busco uma oportunidade para desenvolver meus conhecimentos em back-end, além de acrescentar com meu perfil proativo, determinado, criativo, inovador e comunicativo.",
+  "cidade_estado:": "Barueri/SP",
+  "link_linkedin": "https://www.linkedin.com/in/raphaelaromao/",
+  "link_github": "https://github.com/raphaelaromao",
+  "link_curriculo": "https://www.canva.com/design/DAEJ1TuHDI0/z5iXLhn4sogztoPS7D7Pew/view?utm_content=DAEJ1TuHDI0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton",
+  "email": "raphaelaromaot@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Tenho 21 anos, estudante de Obstetrícia na USP e desenvolvedora back-end pela Reprograma.",
+    "Desde sempre sou apaixonada por estudar e conhecer novas áreas. É nesse sentido que venho tentando unir meu conhecimento em saúde com a tecnologia, a fim de tornar mais segura e acessível a vivência dos usuários da saúde."
+  ],
+  
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento back-end  ",
+      "instituicao": "Reprograma",
+      "periodo": "Agosto/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Javascript, Git, MongoDB, Node JS, express"
+    },
+    {
+      "curso": "Obstetrícia",
+      "instituicao": "Universidade de São Paulo",
+      "periodo": "Jan/2017 a Dez/2021",
+      "resumo_conhecimentos_aprendidos": "Obstetrícia, Saúde da Mulher, Saúde Pública, Pré-natal, Parto, Pós-parto"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "API",
+      "pontuacao": 8
+    }
+  ]
+}
