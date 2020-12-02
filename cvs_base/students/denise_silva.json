@@ -1,0 +1,85 @@
+{
+  "nome_completo": "Denise Evelin Duarte da Silva",
+  "o_que_eu_quero": "Atuar como desenvolvedora backend júnior.",
+  "cidade_estado:": "Brasília/DF",
+  "link_linkedin": "https://www.linkedin.com/in/denise-duarte-dev/",
+  "link_github": "https://github.com/deniseevelin",
+  "email": "deniseevelynk3@hotmail.com",
+  "um_pouco_sobre_mim": [
+    "Graduanda em Engenharia de Produção, recentemente cusando tecnólogo de Análise e Desenvolvimento de Sistemas. Apaixonada pela tecnologia e pela transformação e impacto que ela traz para a vida das pessoas.",
+    "Em 2020 decidi fazer a transição de carreira, e desde então venho buscando aprender, através de cursos onlines, conhecimentos que ajudem a me desenvolver nessa nova área em TI. Atualmente estagiando na Cabal Brasil como desenvolvedora backend. Também tenho experiência em Indústrias de grande porte atuando na Qualidade, e assim pude desenvolver algumas habilidades como trabalho em equipe, resolução de problemas, flexibilidade, responsabilidade, determinação, liderança, gestão de conflitos, empatia, entre outras.",
+    "Eu amo viajar, conhecer lugares novos e experiências novas. Adoro comidas diferentes, em especial sobremesas. Amo estar em momentos especiais com familiares e amigos. E sou apaixonada pelos animais."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagiária em Desenvolvimento de Software",
+      "empresa": "SICOOB - Cabal Brasil",
+      "periodo": "Dez/2020 - atual",
+      "atividades_desenvolvidas": "Apoiar o desenvolvimento de APIs de integração entre sistemas utilizando JavaScript no backend; Apoiar na documentação de APIs de sistemas e processos.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Analista de Qualidade Pleno",
+      "empresa": "Alpargatas S.A.",
+      "periodo": "Mai/2018 a Nov/2020",
+      "atividades_desenvolvidas": "Responsável pelo setor de Injeção de Borracha, PVC e EVA. Atuando na gestão da qualidade dos processos e produtos.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvedor Backend Node.Js",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Git e GitHub, Lógica de Programação, Protocolo HTTP, Node.js, MongoDB."
+    },
+    {
+      "curso": "Java OO: Introdução à Orientação a Objetos",
+      "instituicao": "Alura Cursos Online",
+      "periodo": "Jun/2020 a Jun/2020",
+      "resumo_conhecimentos_aprendidos": "Instanciação, Atributos, Referências, Métodos, Composição de Objetos, Atributos Privados, Encapsulamrntos e Getters e Setters."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "SFPC - Scrum Foundation Professional Certificate",
+      "instituicao": "CertiProf",
+      "resumo_conhecimentos_interesses": "Conhecimento sobre a metodologia SCRUM."
+    },
+    {
+      "interesse_evento_curso": "Imersão CSS e HTML",
+      "instituicao": "Alura Cursos Online",
+      "resumo_conhecimentos_interesses": "Criação de um portfólio com CSS e HTML."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "Node.JS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Git/Github",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JavaScript",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "HTTP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Metodologias Ágeis - SCRUM",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "Java",
+      "pontuacao": 5
+    }
+  ]
+}
