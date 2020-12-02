@@ -1,0 +1,127 @@
+{
+  "nome_completo": "Maria Eduarda de Lima Gomes",
+  "o_que_eu_quero": "Quero ingressar no mercado de trabalho no ramo da tecnologia. Aplicando, compartilhando e aprendendo cada vez mais sobre o assunto.",
+  "cidade_estado:": "Cabo de Santo Agostinho/PE",
+  "link_linkedin": "https://www.linkedin.com/in/maria-eduarda-lima-gomes-699888190/",
+  "link_github": "https://github.com/melg88",
+  "email": "meduardalima88@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma jovem de 19 anos, imergindo no meio Tecnológico e apaixonada por esse mundo. Além disso, com muita vontade de aprender. Tenho muitos sonhos e um deles é ingressar no mercado de trabalho e poder usar essa paixão para evoluir profissionalmente.",
+    "Escolhi Engenharia da Computação na Universidade Federal de Pernambuco para entrar de cabeça desse mundo e com isso construir uma base sólida naquilo que queria para o meu futuro. Explorando vários desafios no vasto mundo da internet, fiz cursos na plataforma da Udemy e me encantei por Desenvolvimento. POuco tempo depois conheci a Reprograma e pude fazer parte desse Bootcamp incrível.",
+    "Gosto de progamar na parte de Desenvolvimento Web e apesar de ter uma boa base no front-end, foi através do Bootcamp que me encantei pelo BackEnd"
+  ],
+  "no_que_ja_trabalhei": [
+    "Sem experiências no mercado de trabalho"
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Engenharia da Computação",
+      "instituicao": "UFPE",
+      "periodo": "Ago/2018 - Cursando",
+      "resumo_conhecimentos_aprendidos": "Bacharelado"
+    },
+    {
+      "curso": "Desenvolvedor BackEnd Bootcamp",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "JavaScript, Node.js, Express.js, API RESTFUL, MongoDB"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso completo de Desenvolvimento Web",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Do básico ao avançado em: HTML, CSS, JAVASCRIPT e como construir projetos do zero usando as 3 linguagens e frameworks"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 3
+    }
+  ]
+}
