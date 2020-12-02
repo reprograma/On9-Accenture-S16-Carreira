@@ -1,0 +1,116 @@
+{
+  "nome_completo": "Glória Maria Barbosa Teodoro",
+  "o_que_eu_quero": "Tenho o desejo de continuar me aprofundando na área de engenharia de software e encontrar uma oportunidade que me permita ser uma profissional capaz de contribuir positivamente na vida das pessoas por meio da tecnologia.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/gl%C3%B3ria-teodoro-8910331b7/",
+  "link_github": "https://github.com/gloriateodoro",
+  "email": "gloriateodoro1@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Nasci no interior da Bahia, mas atualmente moro em Recife, onde fui buscar melhores oportunidades de estudo. Meus conhecimentos estão mais relacionados ao desenvolvimento backend, entretanto, estou estudando frontend também. Sou apaixonada por instrumentos musicais e meu tempo livre é dedicado à música, a passeios de bicicleta, à leitura, a minha família e aos meus amigos. Desde que entrei no mundo da programação, penso que nós, profissionais da tecnologia, estamos aqui para solucionar problemas reais e mostrar o poder da inovação na qualidade de vida. O mundo precisa muito de nós."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Assistente Administrativa",
+      "empresa": "Lux Mármore",
+      "periodo": "Fev/2016 a Fev/2018",
+      "atividades_desenvolvidas": "Atendimento ao cliente, cálculo de preços por meio de medidas, agendamento de entregas, contato com fornecedores de mármore/granito, marketing empresarial.",
+      "link": "https://www.facebook.com/LuxMarmore/"
+    },
+    {
+      "cargo_funcao": "Professora particular de matemática e redação",
+      "empresa": "Autônoma",
+      "periodo": "Jan/2016 - atualmente",
+      "atividades_desenvolvidas": "Planejamento de aulas sobre redação; aulas para ensino fundamental, médio e pré-vestibular; planejamento e correção de lista de exercícios",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Direito",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "periodo": "curso trancado devido à transição de carreira",
+      "resumo_conhecimentos_aprendidos": "Estudo de interpretação e aplicação de leis nas mediações de conflitos"
+    },
+    {
+      "curso": "Bootcamp Backend",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Durante o curso, aprendemos desde a estrutura de objetos, arrays, a construção de uma API (express), importação de bibliotecas e lógica de programação respeitando regras de negócio e boas práticas."
+    },
+    {
+      "curso": "Javascript",
+      "instituicao": "Curso em Vídeo",
+      "periodo": "Jul/2020 a Ago/2020 - 40 horas",
+      "resumo_conhecimentos_aprendidos": "Conceitos e aplicação de Javascript na resolução de problemas; laços e repetições; ECMAScript"
+    },
+    {
+      "curso": "Python",
+      "instituicao": "Curso em vídeo",
+      "periodo": "Maio/2020 a Junho/2020 - 120 horas",
+      "resumo_conhecimentos_aprendidos": "Aplicação de Python em condições e estruturas repetição; Pycharm; manipulação de listas e matrizes; funções"
+    },
+    {
+      "curso": "Everis FullStack Developer",
+      "instituicao": "Digital Innovation One",
+      "periodo": "Nov/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Backend em Java; Frontend em Angular"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Sound Design",
+      "instituicao": "Game Jam das Minas",
+      "periodo": "Março/2020 - 3 dias",
+      "resumo_conhecimentos_aprendidos": "Patrocinada pelo Porto Digital, e pelos studios de jogos Manifesto e PUGA, a game jam foi uma Maratona de desenvolvimento de jogos pra mulheres, na qual atuei como sound designer, e acontece todo ano em Recife."
+    },
+    {
+      "interesse_evento_curso": "Git e GitHub",
+      "instituicao": "Curso em Vídeo",
+      "periodo": "Ago/2020 - 20 horas",
+      "resumo_conhecimentos_aprendidos": "Estudo de versionamento; criação de repositórios; aplicação de ferramentas do GitHub."      
+    }
+  ],
+  "no_que_me_destaco": [
+
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE.JS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PYCHARM",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "ARQUITETURA MVC",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 6
+    }
+  ]
+}
