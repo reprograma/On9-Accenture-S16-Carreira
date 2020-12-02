@@ -7,9 +7,9 @@
     "email": "michellelicia98@gmail.com",
     "um_pouco_sobre_mim": [
         "Sou uma jovem natural de Jaboatão dos Guararapes/PE, apaixonada por segurança da informação, backend e música!.",
-        "Amo cantar, compor e gravar músicas, aprender sobre culturas, idiomas e novas tecnologias. Sempre estou buscando novos conhecimentos!",
-        "Fui a primeira da família a estudar em uma universidade pública e a primeira a ser aprovada em 3 programas de bolsas de intercambio.",
-        "Como estudante de Licenciatura em Computação e futura professora, meu sonho é obter o maior conhecimento possível para me tornar uma profissional capacitada e fazer com que a tecnologia transforme vidas, assim como transformou a minha."
+        "Amo cantar, compor e gravar músicas, aprender sobre culturas, idiomas e novas tecnologias. Sempre estou buscando novos conhecimentos",
+        "Fui a primeira da família a estudar em uma universidade pública e a primeira a ser aprovada em 3 programas de bolsas de intercambio",
+        "Como estudante de Licenciatura em Computação e futura professora, meu sonho é obter o maior conhecimento possível para me tornar uma profissional capacitada e fazer com que a tecnologia transforme vidas, assim como transformou a minha"
     ],
     "no_que_ja_trabalhei": [
         {
@@ -37,7 +37,7 @@
             "cargo_funcao": "Analista de SI - Controle de Acessos",
             "empresa": "Accenture",
             "periodo": "Jan/2019 a Atualmente",
-            "atividades_desenvolvidas": "Responsável por realizar a passagem de conhecimento para a equipe local durante a transição com a antiga empresa prestadora de serviços no cliente; Validação de acessos, realizando a revogação de usuários desligados e deletados por inatividade em servidores, bancos de dados oracle e aplicações , garantindo a segurança do ambiente; Responsável pelas solicitações da auditoria GRC e Controles Internos; Extrações dos usuários e grupos do Active Directory, servidores (Windows e Unix), banco de dados Oracle e aplicações do cliente para validações,Prestar suporte à usuários a fim de solucionar problemas de acesso nos sistemas; Gerenciamento de usuários através do IDM, Active Directory, utilizando PowerShell, AdAudit e AdManager; Gerenciamento de tickets através do jira; Criação de acesso para transferência de dados através do RiverSoft; Liberação de acessos à VPN Cisco, ODI 11 e 12c, BRM e TOA",
+            "atividades_desenvolvidas": "Responsável por realizar a passagem de conhecimento para a equipe local durante a transição com a antiga empresa prestadora de serviços no cliente, Validação de acessos, realizando a revogação de usuários desligados e deletados por inatividade em servidores, bancos de dados oracle e aplicações, Responsável pelas solicitações da auditoria GRC e Controles Internos, Extrações dos usuários e grupos do Active Directory, servidores (Windows e Unix), banco de dados Oracle e aplicações do cliente para validações, Prestar suporte à usuários a fim de solucionar problemas de acesso nos sistemas, Gerenciamento de usuários através do IDM, Active Directory, utilizando PowerShell, AdAudit e AdManager, Gerenciamento de tickets através do jira, Criação de acesso para transferência de dados através do RiverSoft, Liberação de acessos à VPN Cisco, ODI, BRM, TOA, AWS",
             "link": "https://www.accenture.com/"
         }
     ],
@@ -59,6 +59,12 @@
             "instituicao": "Reprograma",
             "periodo": "Ago/2020 a Dez/2020",
             "resumo_conhecimentos_aprendidos": "18 semanas de aula que abordou Git & Github, Lógica de Programação, Javascript, Rest API, Node.js, MongoDB e mentorias de carreira, além de criação de projetos práticos."
+        },
+        {
+            "curso": "Intercambio Ensino médio",
+            "instituicao": "Brockville Collegiate Institute - Canadá, Brockville, ON",
+            "periodo": "Ago/2014 a Jan/2015",
+            "resumo_conhecimentos_aprendidos": "Através do Programa Ganhe o Mundo, estudei 1 semestre letivo do ensino médio e tive aulas ministradas em inglês."
         }
     ],
     "meus_outros_aprendizados_e_interesses": [
