@@ -1,0 +1,125 @@
+{
+  "nome_completo": "Ana Beatriz Reis Mota",
+  "o_que_eu_quero": "Me esforço e invisto na minha carreira para que ela seja estabelecida e conhecida ao longo dos anos, sempre procurando me especializar e estudar sobre diferentes áreas dentro e fora do meu domínio, para obter uma multidisciplinaridade que me permita ter uma visão mais ampla quando estiver em frente à projetos ou desafios",
+  "cidade_estado:": "Olinda/PE",
+  "link_linkedin": "https://www.linkedin.com/in/anarei-s/",
+  "link_github": "https://github.com/anareisier",
+  "email": "anareis1706@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Apaixonada por música, tocar instrumentos e estudante de Engenharia Elétrica Eletrotécnica na Escola Politécnica da Universidade de Pernambuco.",
+    "Sempre buscando envolvimento com projetos de extensão dentro da universidade sendo um deles o de robótica, onde pude ter a oportunidade de conhecer varias áreas.", 
+    "Como por exemplo: eletrônica, programação, mecânica e gestão de projetos, além de participar de competições representando a Universidade. Outro projeto que me envolvi foi o projeto extensão Holiday",
+    "que é um edifício histórico no Recife, conhecido por sua arquitetura memorável cujo objetivo é fazer um estudo da instalação elétrica do edifício buscando sua reestruturação.",
+    "No âmbito profissional tive experiência com fabricação digital, manutenção de máquinas de corte a laser e impressão 3d, além de lecionar aulas de eletrônica básica para ",
+    "crianças e mulheres onde eu aprendi muito a me comunicar com vários públicos. Sou uma pessoa criativa, apaixonada por inovação, movida à desafios e sempre em busca de aprendizado."
+    
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagiária de Eletrônica",
+      "empresa": "Fab Lab Recife",
+      "periodo": "Março/2019 a Abril/2020",
+      "atividades_desenvolvidas":["Confecção de placas de circuitos",
+      "Manutenção de máquinas (impressora 3D e cortadora a laser)",
+      "Ensino de aulas de eletrônica básica para público infantil e adulto",
+      "Desenvolvimento de projetos com o uso do software como: Proteus , Illustrator,Autocad, Inventor"
+      ],
+      "link": "https://www.fablabrecife.com/"
+    },
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "Projeto Edifício Holiday (Poli, UPE)",
+      "periodo": "set/2019 - Atual",
+      "atividades_desenvolvidas": "Desenvolvimento de plantas elétricas com auxílo do software AutoCAD 2D e estudo da instalação elétrica do edifício",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Projetista de Energia Solar Fotovoltaica",
+      "instituicao": "Alpha Energia",
+      "periodo": "Abril/2019",
+      "resumo_conhecimentos_aprendidos": "Projeto, Conceitos relacionados à eletrônica"
+    },
+    {
+      "curso": "SAP",
+      "instituicao": "MDL cursos",
+      "periodo": "Abril/2019",
+      "resumo_conhecimentos_aprendidos": "Familiaridade com o ambiente, Comandos do sistema"
+    },
+    {
+      "curso": "Arduíno",
+      "instituicao": "Equipe de Robótica Carranca",
+      "periodo": "Março/2019",
+      "resumo_conhecimentos_aprendidos": "Projeto, Conceitos relacionados à eletrônica, Linguagem C/C++"
+    },
+    {
+      "curso": "Dev. Back-end",
+      "instituicao": "Reprograma",
+      "periodo": "Agosto/2020 a Dezembro/2020",
+      "resumo_conhecimentos_aprendidos": "JavaScript, Banco de dados, Git Bash, Git Hub, Autenticação e Segurança, Lógica de Programação "
+    }
+
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de Python",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do Python"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "AutoCAD",
+      "pontuacao": 9.5
+    },
+    {
+      "habilidade_ferramenta": "Inventor",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SolidWorks",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Proteus",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "C/C++",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "Arduino",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Trello",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Inkscape",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Octave/Matlab",
+      "pontuacao": 7
+    }
+  ]
+}
