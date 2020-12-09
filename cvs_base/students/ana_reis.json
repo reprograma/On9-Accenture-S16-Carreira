@@ -74,15 +74,15 @@
       "pontuacao": 9.5
     },
     {
-      "habilidade_ferramenta": "Inventor",
+      "habilidade_ferramenta": "Inventor/SolidWorks",
       "pontuacao": 9
     },
     {
-      "habilidade_ferramenta": "SolidWorks",
+      "habilidade_ferramenta": "Pacote Office",
       "pontuacao": 7
     },
     {
-      "habilidade_ferramenta": "JAVASCRIPT",
+      "habilidade_ferramenta": "JavaScript",
       "pontuacao": 7
     },
     {
@@ -90,12 +90,20 @@
       "pontuacao": 7
     },
     {
-      "habilidade_ferramenta": "NODE",
-      "pontuacao": 1
+      "habilidade_ferramenta": "NodeJs",
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "GIT/GITHUB",
       "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Postman/Insomnia",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "C/C++",
@@ -110,11 +118,19 @@
       "pontuacao": 8
     },
     {
-      "habilidade_ferramenta": "Inkscape",
-      "pontuacao": 7
+      "habilidade_ferramenta": "Python",
+      "pontuacao": 4
     },
     {
-      "habilidade_ferramenta": "ILUSTRATOR",
+      "habilidade_ferramenta": "HTML/CSS",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "Java",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "Illustrator/Inkscape",
       "pontuacao": 8
     },
     {
